@@ -1,0 +1,11 @@
+sku,name,price,description,stock,image_path
+WIDGET001,Premium Widget Alpha,29.99,High-quality aluminum widget with ergonomic design,100,/images/widget-alpha.jpg
+WIDGET002,Standard Widget Beta,19.99,Classic widget for everyday use,250,/images/widget-beta.jpg
+WIDGET003,Deluxe Widget Gamma,49.99,Professional-grade widget with advanced features,75,/images/widget-gamma.jpg
+GADGET001,Smart Gadget Pro,99.99,Internet-connected gadget with mobile app,50,/images/gadget-pro.jpg
+GADGET002,Basic Gadget,15.99,Entry-level gadget for beginners,500,/images/gadget-basic.jpg
+TOOL001,Multi-Purpose Tool,35.00,Versatile tool for various tasks,150,/images/tool-multi.jpg
+TOOL002,Precision Tool Set,89.99,Complete set of precision tools,40,/images/tool-set.jpg
+ACCESSORY001,Universal Adapter,12.99,Compatible with all standard connections,300,/images/adapter.jpg
+ACCESSORY002,Premium Cable 3ft,8.99,High-speed data transfer cable,1000,/images/cable-3ft.jpg
+ACCESSORY003,Premium Cable 6ft,11.99,High-speed data transfer cable - longer version,800,/images/cable-6ft.jpg
