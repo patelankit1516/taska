@@ -124,9 +124,18 @@ class ChunkedUploadService
                 ];
             }
 
-            // Store chunk data
+            // Store chunk data to filesystem (bypassing Laravel's Storage facade to avoid path issues)
             $chunkPath = $this->getChunkPath($upload->uuid, $chunkNumber);
-            Storage::put($chunkPath, $chunkData);
+            $fullChunkPath = storage_path('app/' . $chunkPath);
+            
+            // Ensure chunk directory exists
+            $chunkDir = dirname($fullChunkPath);
+            if (!is_dir($chunkDir)) {
+                mkdir($chunkDir, 0755, true);
+            }
+            
+            // Write chunk data to file
+            file_put_contents($fullChunkPath, $chunkData);
 
             // Update chunk record
             $chunk->update([
@@ -273,17 +282,20 @@ class ChunkedUploadService
         
         foreach ($chunks as $chunk) {
             $chunkPath = $this->getChunkPath($upload->uuid, $chunk->chunk_number);
+            $fullChunkPath = storage_path('app/' . $chunkPath);
             
-            if (Storage::exists($chunkPath)) {
-                Storage::delete($chunkPath);
+            if (file_exists($fullChunkPath)) {
+                unlink($fullChunkPath);
             }
         }
 
-        // Remove chunk directory
-        $chunkDir = self::TEMP_UPLOAD_PATH . '/' . $upload->uuid;
-        
-        if (Storage::exists($chunkDir)) {
-            Storage::deleteDirectory($chunkDir);
+        // Remove chunk directory if empty
+        $chunkDir = storage_path('app/' . self::TEMP_UPLOAD_PATH . '/' . $upload->uuid);
+        if (is_dir($chunkDir)) {
+            $files = scandir($chunkDir);
+            if (count($files) === 2) { // Only . and ..
+                rmdir($chunkDir);
+            }
         }
     }
 

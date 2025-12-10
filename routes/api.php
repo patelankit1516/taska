@@ -3,7 +3,13 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProductImportController;
+use App\Http\Controllers\ProductController;
 use App\Http\Controllers\UploadController;
+
+// Product Routes
+Route::get('/products', [ProductController::class, 'list']);
+Route::post('/products', [ProductController::class, 'list']); // For AG Grid server-side model
+Route::get('/products/{id}', [ProductController::class, 'show']);
 
 // Product Import Routes
 Route::post('/products/import', [ProductImportController::class, 'import']);

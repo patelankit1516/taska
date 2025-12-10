@@ -1,0 +1,1001 @@
+sku,name,price,description,stock,image_path
+TEST0001,"Industrial Module HD",716.50,"Versatile module suitable for multiple applications",224,sample-images/product-194.jpg
+TEST0002,"Essential Connector XS",169.17,"Versatile connector suitable for multiple applications",229,sample-images/product-199.jpg
+TEST0003,"Smart Tool HD",519.42,"Cost-effective tool for budget-conscious buyers",460,sample-images/product-023.jpg
+TEST0004,"Ultra Cable Z",457.07,"Compact cable with powerful capabilities",671,sample-images/product-013.jpg
+TEST0005,"Wireless Interface B",503.84,"State-of-the-art interface with modern design",773,sample-images/product-041.jpg
+TEST0006,"Basic Terminal HD",394.42,"Premium terminal with excellent performance",680,sample-images/product-082.jpg
+TEST0007,"Industrial Interface Standard",222.39,"Cost-effective interface for budget-conscious buyers",792,sample-images/product-006.jpg
+TEST0008,"Classic Monitor XL",748.03,"Cost-effective monitor for budget-conscious buyers",634,sample-images/product-090.jpg
+TEST0009,"High-Performance Module Pro",228.35,"Innovative module with cutting-edge technology",300,sample-images/product-005.jpg
+TEST0010,"Industrial Terminal Z",262.18,"State-of-the-art terminal with modern design",950,sample-images/product-164.jpg
+TEST0011,"Elite Device X",327.53,"Durable device built to last",171,sample-images/product-063.jpg
+TEST0012,"Digital Panel 3000",413.28,"Perfect panel for everyday tasks",938,sample-images/product-141.jpg
+TEST0013,"Advanced Module X",292.49,"Perfect module for everyday tasks",963,sample-images/product-067.jpg
+TEST0014,"Super Adapter Ultra",957.26,"Perfect adapter for everyday tasks",808,sample-images/product-110.jpg
+TEST0015,"Deluxe Interface Max",367.62,"Compact interface with powerful capabilities",324,sample-images/product-142.jpg
+TEST0016,"Modern Equipment Premium",477.16,"Cost-effective equipment for budget-conscious buyers",90,sample-images/product-171.jpg
+TEST0017,"Super Apparatus 2000",850.86,"State-of-the-art apparatus with modern design",381,sample-images/product-135.jpg
+TEST0018,"Industrial Monitor HD",972.28,"Innovative monitor with cutting-edge technology",662,sample-images/product-127.jpg
+TEST0019,"Heavy-Duty Component XS",593.14,"Reliable component with advanced features",530,sample-images/product-074.jpg
+TEST0020,"Digital Adapter Z",454.59,"High quality adapter for professional use",852,sample-images/product-080.jpg
+TEST0021,"Essential Kit 5000",143.39,"State-of-the-art kit with modern design",562,sample-images/product-007.jpg
+TEST0022,"Classic Adapter 2000",980.84,"Premium adapter with excellent performance",111,sample-images/product-122.jpg
+TEST0023,"Elite Cable C",231.95,"Compact cable with powerful capabilities",121,sample-images/product-055.jpg
+TEST0024,"Pro Terminal Premium",487.98,"State-of-the-art terminal with modern design",212,sample-images/product-002.jpg
+TEST0025,"High-Performance Kit HD",51.00,"State-of-the-art kit with modern design",182,sample-images/product-010.jpg
+TEST0026,"Innovative Display Z",355.88,"Cost-effective display for budget-conscious buyers",309,sample-images/product-147.jpg
+TEST0027,"Super Monitor Lite",987.87,"High quality monitor for professional use",231,sample-images/product-139.jpg
+TEST0028,"Deluxe Interface X",875.73,"Versatile interface suitable for multiple applications",814,sample-images/product-118.jpg
+TEST0029,"Eco-Friendly Gadget Elite",319.07,"Perfect gadget for everyday tasks",465,sample-images/product-041.jpg
+TEST0030,"Innovative Terminal Premium",680.76,"Cost-effective terminal for budget-conscious buyers",832,sample-images/product-166.jpg
+TEST0031,"Professional Terminal Mini",430.82,"Reliable terminal with advanced features",528,sample-images/product-169.jpg
+TEST0032,"Ultra Gadget Max",239.17,"Durable gadget built to last",838,sample-images/product-161.jpg
+TEST0033,"Heavy-Duty Interface Elite",814.56,"Versatile interface suitable for multiple applications",479,sample-images/product-046.jpg
+TEST0034,"Elite Kit 2000",470.51,"Innovative kit with cutting-edge technology",138,sample-images/product-062.jpg
+TEST0035,"Elite Equipment HD",892.29,"Premium equipment with excellent performance",300,sample-images/product-045.jpg
+TEST0036,"Professional Kit Pro",109.79,"State-of-the-art kit with modern design",574,sample-images/product-060.jpg
+TEST0037,"Innovative Kit A",35.26,"Perfect kit for everyday tasks",57,sample-images/product-039.jpg
+TEST0038,"Classic Switch XS",967.04,"Compact switch with powerful capabilities",418,sample-images/product-028.jpg
+TEST0039,"Digital Monitor XL",308.80,"Reliable monitor with advanced features",663,sample-images/product-087.jpg
+TEST0040,"Modern Display B",71.20,"Compact display with powerful capabilities",528,sample-images/product-118.jpg
+TEST0041,"Smart Cable HD",68.29,"Reliable cable with advanced features",824,sample-images/product-143.jpg
+TEST0042,"Advanced Display Standard",373.93,"Innovative display with cutting-edge technology",89,sample-images/product-140.jpg
+TEST0043,"Essential System Premium",601.28,"Durable system built to last",829,sample-images/product-120.jpg
+TEST0044,"Super Terminal Elite",952.92,"Versatile terminal suitable for multiple applications",482,sample-images/product-136.jpg
+TEST0045,"Luxury Kit X",522.87,"High quality kit for professional use",157,sample-images/product-055.jpg
+TEST0046,"Commercial Connector Standard",616.82,"Versatile connector suitable for multiple applications",359,sample-images/product-156.jpg
+TEST0047,"Commercial Sensor XS",176.06,"Premium sensor with excellent performance",147,sample-images/product-052.jpg
+TEST0048,"Portable Kit 3000",696.90,"Compact kit with powerful capabilities",617,sample-images/product-196.jpg
+TEST0049,"Pro Component HD",288.01,"Durable component built to last",771,sample-images/product-001.jpg
+TEST0050,"Classic Adapter A",595.30,"Innovative adapter with cutting-edge technology",484,sample-images/product-144.jpg
+TEST0051,"Luxury Device Z",164.47,"Premium device with excellent performance",43,sample-images/product-134.jpg
+TEST0052,"Pro Sensor A",397.02,"Versatile sensor suitable for multiple applications",843,sample-images/product-129.jpg
+TEST0053,"Super Instrument B",895.42,"Perfect instrument for everyday tasks",393,sample-images/product-029.jpg
+TEST0054,"Portable Sensor Mini",766.78,"Innovative sensor with cutting-edge technology",199,sample-images/product-068.jpg
+TEST0055,"Luxury Connector Max",270.24,"Perfect connector for everyday tasks",973,sample-images/product-149.jpg
+TEST0056,"Basic Unit A",245.84,"Cost-effective unit for budget-conscious buyers",439,sample-images/product-056.jpg
+TEST0057,"Premium Widget HD",876.35,"State-of-the-art widget with modern design",900,sample-images/product-053.jpg
+TEST0058,"Pro Device Premium",820.26,"Cost-effective device for budget-conscious buyers",334,sample-images/product-098.jpg
+TEST0059,"High-Performance Unit Ultra",812.93,"Compact unit with powerful capabilities",721,sample-images/product-002.jpg
+TEST0060,"Deluxe Terminal 3000",855.28,"Innovative terminal with cutting-edge technology",87,sample-images/product-071.jpg
+TEST0061,"Innovative Module A",906.36,"High quality module for professional use",967,sample-images/product-164.jpg
+TEST0062,"Premium Switch Standard",559.56,"State-of-the-art switch with modern design",416,sample-images/product-016.jpg
+TEST0063,"Innovative Component Pro",155.48,"Compact component with powerful capabilities",956,sample-images/product-184.jpg
+TEST0064,"Commercial Device Standard",606.63,"Premium device with excellent performance",728,sample-images/product-066.jpg
+TEST0065,"Ultra Equipment B",755.94,"Cost-effective equipment for budget-conscious buyers",560,sample-images/product-084.jpg
+TEST0066,"Heavy-Duty Sensor Plus",519.97,"Durable sensor built to last",707,sample-images/product-011.jpg
+TEST0067,"Essential Interface Premium",862.06,"Cost-effective interface for budget-conscious buyers",482,sample-images/product-124.jpg
+TEST0068,"Professional Monitor XL",205.35,"Premium monitor with excellent performance",988,sample-images/product-046.jpg
+TEST0069,"Wireless Widget C",936.36,"Premium widget with excellent performance",25,sample-images/product-165.jpg
+TEST0070,"Ultra Monitor Premium",525.13,"Innovative monitor with cutting-edge technology",682,sample-images/product-122.jpg
+TEST0071,"Essential Equipment HD",801.30,"Innovative equipment with cutting-edge technology",692,sample-images/product-049.jpg
+TEST0072,"Ultra Hub 2000",613.07,"Cost-effective hub for budget-conscious buyers",365,sample-images/product-001.jpg
+TEST0073,"Heavy-Duty Component Ultra",515.56,"Versatile component suitable for multiple applications",879,sample-images/product-199.jpg
+TEST0074,"Premium Equipment 2000",806.68,"High quality equipment for professional use",551,sample-images/product-068.jpg
+TEST0075,"Smart Unit Lite",812.64,"Premium unit with excellent performance",861,sample-images/product-105.jpg
+TEST0076,"Professional Equipment Max",651.44,"Durable equipment built to last",268,sample-images/product-033.jpg
+TEST0077,"Industrial Sensor 3000",900.70,"Reliable sensor with advanced features",872,sample-images/product-195.jpg
+TEST0078,"Premium Module Elite",173.65,"Innovative module with cutting-edge technology",424,sample-images/product-058.jpg
+TEST0079,"High-Performance Instrument Lite",511.09,"High quality instrument for professional use",182,sample-images/product-037.jpg
+TEST0080,"Innovative Unit Max",435.23,"Innovative unit with cutting-edge technology",274,sample-images/product-196.jpg
+TEST0081,"High-Performance Display XL",81.54,"High quality display for professional use",256,sample-images/product-008.jpg
+TEST0082,"Premium Apparatus Pro",376.47,"Reliable apparatus with advanced features",864,sample-images/product-056.jpg
+TEST0083,"Pro Kit Lite",228.94,"Perfect kit for everyday tasks",833,sample-images/product-016.jpg
+TEST0084,"Ultra Kit X",457.90,"High quality kit for professional use",748,sample-images/product-131.jpg
+TEST0085,"Heavy-Duty Equipment 2000",621.15,"Reliable equipment with advanced features",379,sample-images/product-090.jpg
+TEST0086,"Essential Terminal Mini",393.84,"Durable terminal built to last",278,sample-images/product-167.jpg
+TEST0087,"Pro Device Plus",429.25,"Versatile device suitable for multiple applications",586,sample-images/product-086.jpg
+TEST0088,"Professional Widget 2000",700.70,"Compact widget with powerful capabilities",782,sample-images/product-168.jpg
+TEST0089,"Innovative System Plus",340.20,"Durable system built to last",292,sample-images/product-041.jpg
+TEST0090,"Luxury Cable Plus",622.62,"Perfect cable for everyday tasks",718,sample-images/product-179.jpg
+TEST0091,"Commercial Switch 2000",761.00,"Innovative switch with cutting-edge technology",988,sample-images/product-184.jpg
+TEST0092,"Classic Apparatus A",574.15,"Premium apparatus with excellent performance",894,sample-images/product-185.jpg
+TEST0093,"Modern Equipment X",222.57,"Compact equipment with powerful capabilities",586,sample-images/product-139.jpg
+TEST0094,"Advanced Module C",503.85,"Reliable module with advanced features",217,sample-images/product-150.jpg
+TEST0095,"Essential Widget Lite",568.73,"Versatile widget suitable for multiple applications",939,sample-images/product-148.jpg
+TEST0096,"Deluxe Gadget Mini",349.16,"Premium gadget with excellent performance",297,sample-images/product-087.jpg
+TEST0097,"Smart Gadget A",322.47,"Cost-effective gadget for budget-conscious buyers",718,sample-images/product-084.jpg
+TEST0098,"Commercial Interface Standard",921.41,"Versatile interface suitable for multiple applications",467,sample-images/product-101.jpg
+TEST0099,"Wireless Gadget 5000",725.40,"High quality gadget for professional use",12,sample-images/product-130.jpg
+TEST0100,"Eco-Friendly Gadget 2000",986.44,"Innovative gadget with cutting-edge technology",347,sample-images/product-005.jpg
+TEST0101,"Heavy-Duty Widget A",270.79,"Premium widget with excellent performance",311,sample-images/product-033.jpg
+TEST0102,"Portable Component A",855.93,"Innovative component with cutting-edge technology",20,sample-images/product-146.jpg
+TEST0103,"Digital Sensor XL",427.63,"Reliable sensor with advanced features",386,sample-images/product-016.jpg
+TEST0104,"Modern Tool Elite",410.06,"State-of-the-art tool with modern design",941,sample-images/product-175.jpg
+TEST0105,"Super Tool Ultra",987.40,"Cost-effective tool for budget-conscious buyers",852,sample-images/product-028.jpg
+TEST0106,"Essential Controller Lite",811.87,"Reliable controller with advanced features",698,sample-images/product-185.jpg
+TEST0107,"Professional Sensor A",359.95,"Perfect sensor for everyday tasks",836,sample-images/product-147.jpg
+TEST0108,"Ultra Sensor Standard",408.80,"Versatile sensor suitable for multiple applications",462,sample-images/product-158.jpg
+TEST0109,"Advanced Connector A",640.91,"High quality connector for professional use",793,sample-images/product-063.jpg
+TEST0110,"Modern Gadget Elite",841.66,"High quality gadget for professional use",894,sample-images/product-173.jpg
+TEST0111,"Smart Cable Mini",965.23,"Versatile cable suitable for multiple applications",162,sample-images/product-037.jpg
+TEST0112,"Professional Connector 2000",837.09,"State-of-the-art connector with modern design",695,sample-images/product-078.jpg
+TEST0113,"Premium Module HD",625.91,"Premium module with excellent performance",882,sample-images/product-125.jpg
+TEST0114,"Eco-Friendly Cable XL",112.27,"Durable cable built to last",671,sample-images/product-022.jpg
+TEST0115,"Pro Controller HD",672.89,"State-of-the-art controller with modern design",57,sample-images/product-034.jpg
+TEST0116,"Premium Unit Pro",129.12,"State-of-the-art unit with modern design",332,sample-images/product-172.jpg
+TEST0117,"Industrial Panel HD",169.25,"Cost-effective panel for budget-conscious buyers",230,sample-images/product-068.jpg
+TEST0118,"Innovative Component B",140.64,"Versatile component suitable for multiple applications",72,sample-images/product-030.jpg
+TEST0119,"Elite Connector B",596.19,"Durable connector built to last",966,sample-images/product-127.jpg
+TEST0120,"Super Module HD",714.99,"State-of-the-art module with modern design",538,sample-images/product-060.jpg
+TEST0121,"Deluxe Connector HD",158.73,"Innovative connector with cutting-edge technology",507,sample-images/product-160.jpg
+TEST0122,"Pro Widget Ultra",516.93,"Versatile widget suitable for multiple applications",856,sample-images/product-140.jpg
+TEST0123,"Advanced Switch 5000",692.78,"State-of-the-art switch with modern design",421,sample-images/product-157.jpg
+TEST0124,"Professional Sensor HD",693.70,"State-of-the-art sensor with modern design",608,sample-images/product-165.jpg
+TEST0125,"Advanced Adapter Ultra",657.99,"Compact adapter with powerful capabilities",853,sample-images/product-026.jpg
+TEST0126,"Compact Display Elite",808.53,"High quality display for professional use",294,sample-images/product-144.jpg
+TEST0127,"Deluxe Machine Standard",183.79,"Cost-effective machine for budget-conscious buyers",562,sample-images/product-164.jpg
+TEST0128,"Innovative Device Mini",458.61,"Innovative device with cutting-edge technology",96,sample-images/product-048.jpg
+TEST0129,"Commercial Hub Plus",810.18,"Reliable hub with advanced features",510,sample-images/product-108.jpg
+TEST0130,"Eco-Friendly Unit Premium",336.46,"Cost-effective unit for budget-conscious buyers",424,sample-images/product-194.jpg
+TEST0131,"Smart Instrument Max",433.59,"Reliable instrument with advanced features",905,sample-images/product-057.jpg
+TEST0132,"Super Unit Elite",66.53,"Versatile unit suitable for multiple applications",249,sample-images/product-111.jpg
+TEST0133,"Commercial Controller XS",823.25,"Cost-effective controller for budget-conscious buyers",479,sample-images/product-193.jpg
+TEST0134,"Wireless Hub Lite",332.60,"Premium hub with excellent performance",73,sample-images/product-162.jpg
+TEST0135,"Luxury Widget Mini",897.24,"Premium widget with excellent performance",343,sample-images/product-096.jpg
+TEST0136,"Professional Device Max",769.47,"Innovative device with cutting-edge technology",312,sample-images/product-072.jpg
+TEST0137,"Pro Monitor Pro",16.16,"Innovative monitor with cutting-edge technology",31,sample-images/product-027.jpg
+TEST0138,"Pro Machine X",156.48,"Perfect machine for everyday tasks",7,sample-images/product-169.jpg
+TEST0139,"Heavy-Duty Tool Lite",833.09,"Versatile tool suitable for multiple applications",183,sample-images/product-007.jpg
+TEST0140,"Modern Switch XL",758.96,"Durable switch built to last",895,sample-images/product-195.jpg
+TEST0141,"Pro Adapter Elite",214.70,"High quality adapter for professional use",722,sample-images/product-113.jpg
+TEST0142,"High-Performance Display Mini",53.43,"Perfect display for everyday tasks",480,sample-images/product-104.jpg
+TEST0143,"Commercial Device XS",976.52,"State-of-the-art device with modern design",125,sample-images/product-104.jpg
+TEST0144,"Ultra Machine X",719.44,"Compact machine with powerful capabilities",40,sample-images/product-140.jpg
+TEST0145,"Eco-Friendly Module B",404.16,"Innovative module with cutting-edge technology",740,sample-images/product-104.jpg
+TEST0146,"Super Kit Plus",767.28,"Premium kit with excellent performance",320,sample-images/product-199.jpg
+TEST0147,"Advanced Adapter XS",365.86,"Reliable adapter with advanced features",398,sample-images/product-034.jpg
+TEST0148,"Digital Machine 2000",114.48,"Innovative machine with cutting-edge technology",498,sample-images/product-074.jpg
+TEST0149,"Essential Apparatus Elite",183.89,"Reliable apparatus with advanced features",62,sample-images/product-198.jpg
+TEST0150,"Luxury Tool Plus",61.89,"Innovative tool with cutting-edge technology",567,sample-images/product-026.jpg
+TEST0151,"Classic Equipment XS",427.25,"High quality equipment for professional use",426,sample-images/product-077.jpg
+TEST0152,"Luxury Apparatus Pro",89.88,"State-of-the-art apparatus with modern design",550,sample-images/product-082.jpg
+TEST0153,"High-Performance Monitor Standard",108.57,"Versatile monitor suitable for multiple applications",926,sample-images/product-133.jpg
+TEST0154,"Wireless Apparatus Lite",284.10,"Perfect apparatus for everyday tasks",51,sample-images/product-023.jpg
+TEST0155,"Ultra Device HD",283.54,"Premium device with excellent performance",819,sample-images/product-199.jpg
+TEST0156,"Professional Tool Mini",668.82,"Premium tool with excellent performance",106,sample-images/product-018.jpg
+TEST0157,"Advanced Unit Z",899.93,"Cost-effective unit for budget-conscious buyers",674,sample-images/product-199.jpg
+TEST0158,"Basic Panel Premium",605.45,"High quality panel for professional use",398,sample-images/product-085.jpg
+TEST0159,"Industrial Machine HD",536.13,"Cost-effective machine for budget-conscious buyers",362,sample-images/product-145.jpg
+TEST0160,"Pro Controller XS",552.98,"Compact controller with powerful capabilities",614,sample-images/product-181.jpg
+TEST0161,"Industrial Display B",288.84,"Cost-effective display for budget-conscious buyers",869,sample-images/product-148.jpg
+TEST0162,"Heavy-Duty Controller Pro",385.55,"Cost-effective controller for budget-conscious buyers",965,sample-images/product-122.jpg
+TEST0163,"Pro Connector Lite",739.99,"Cost-effective connector for budget-conscious buyers",897,sample-images/product-145.jpg
+TEST0164,"Super Controller C",434.29,"Versatile controller suitable for multiple applications",794,sample-images/product-083.jpg
+TEST0165,"Wireless Unit Elite",371.76,"Premium unit with excellent performance",981,sample-images/product-195.jpg
+TEST0166,"Pro Hub 2000",977.02,"State-of-the-art hub with modern design",273,sample-images/product-113.jpg
+TEST0167,"Smart Tool XS",407.14,"Reliable tool with advanced features",893,sample-images/product-025.jpg
+TEST0168,"Classic Terminal Standard",516.72,"State-of-the-art terminal with modern design",952,sample-images/product-185.jpg
+TEST0169,"Pro Module Pro",795.34,"Perfect module for everyday tasks",956,sample-images/product-199.jpg
+TEST0170,"Classic Panel Z",734.20,"Durable panel built to last",589,sample-images/product-200.jpg
+TEST0171,"High-Performance Sensor Lite",234.45,"Reliable sensor with advanced features",929,sample-images/product-142.jpg
+TEST0172,"Compact Monitor 2000",58.38,"High quality monitor for professional use",836,sample-images/product-052.jpg
+TEST0173,"Basic Widget XS",152.34,"Durable widget built to last",71,sample-images/product-100.jpg
+TEST0174,"Modern Controller A",185.87,"Compact controller with powerful capabilities",771,sample-images/product-026.jpg
+TEST0175,"Super Controller XS",817.15,"Reliable controller with advanced features",491,sample-images/product-033.jpg
+TEST0176,"Smart Kit X",392.54,"Compact kit with powerful capabilities",834,sample-images/product-087.jpg
+TEST0177,"Commercial Module Standard",53.02,"State-of-the-art module with modern design",613,sample-images/product-051.jpg
+TEST0178,"Industrial System A",882.72,"Versatile system suitable for multiple applications",563,sample-images/product-008.jpg
+TEST0179,"Professional Adapter XS",282.39,"Durable adapter built to last",186,sample-images/product-005.jpg
+TEST0180,"Innovative Module Max",782.90,"High quality module for professional use",287,sample-images/product-008.jpg
+TEST0181,"Classic Controller Lite",342.07,"Cost-effective controller for budget-conscious buyers",264,sample-images/product-110.jpg
+TEST0182,"Professional Gadget Premium",42.00,"Versatile gadget suitable for multiple applications",298,sample-images/product-190.jpg
+TEST0183,"Innovative Hub 2000",168.50,"Innovative hub with cutting-edge technology",187,sample-images/product-180.jpg
+TEST0184,"Eco-Friendly Kit 5000",748.06,"Reliable kit with advanced features",568,sample-images/product-122.jpg
+TEST0185,"Modern Switch Max",137.56,"Premium switch with excellent performance",525,sample-images/product-156.jpg
+TEST0186,"Premium Kit Z",164.55,"Durable kit built to last",356,sample-images/product-039.jpg
+TEST0187,"Innovative Module X",417.01,"Innovative module with cutting-edge technology",310,sample-images/product-081.jpg
+TEST0188,"Modern Sensor 2000",699.46,"High quality sensor for professional use",359,sample-images/product-076.jpg
+TEST0189,"Advanced Controller B",844.12,"Perfect controller for everyday tasks",117,sample-images/product-137.jpg
+TEST0190,"Eco-Friendly Kit XL",547.16,"Durable kit built to last",771,sample-images/product-016.jpg
+TEST0191,"Premium Connector Premium",203.47,"Durable connector built to last",79,sample-images/product-127.jpg
+TEST0192,"Elite Interface Pro",210.53,"Versatile interface suitable for multiple applications",735,sample-images/product-197.jpg
+TEST0193,"Industrial Device Plus",268.30,"Perfect device for everyday tasks",134,sample-images/product-008.jpg
+TEST0194,"Wireless Equipment Elite",735.14,"Innovative equipment with cutting-edge technology",956,sample-images/product-086.jpg
+TEST0195,"Wireless Switch HD",943.75,"Perfect switch for everyday tasks",40,sample-images/product-177.jpg
+TEST0196,"Modern Machine Elite",42.07,"Premium machine with excellent performance",589,sample-images/product-189.jpg
+TEST0197,"Compact Component Elite",866.42,"Reliable component with advanced features",363,sample-images/product-143.jpg
+TEST0198,"Essential Equipment Elite",218.17,"Versatile equipment suitable for multiple applications",590,sample-images/product-120.jpg
+TEST0199,"Deluxe Monitor HD",797.30,"Versatile monitor suitable for multiple applications",859,sample-images/product-097.jpg
+TEST0200,"Modern System Premium",312.30,"High quality system for professional use",620,sample-images/product-170.jpg
+TEST0201,"Modern Controller 5000",107.59,"Compact controller with powerful capabilities",383,sample-images/product-004.jpg
+TEST0202,"High-Performance Connector Ultra",960.03,"High quality connector for professional use",667,sample-images/product-157.jpg
+TEST0203,"Wireless Panel Max",847.71,"Compact panel with powerful capabilities",35,sample-images/product-031.jpg
+TEST0204,"Eco-Friendly Terminal Elite",847.96,"High quality terminal for professional use",692,sample-images/product-109.jpg
+TEST0205,"Commercial Switch Mini",437.42,"Compact switch with powerful capabilities",211,sample-images/product-072.jpg
+TEST0206,"Premium Device Elite",638.26,"State-of-the-art device with modern design",456,sample-images/product-139.jpg
+TEST0207,"Modern Device B",705.26,"Cost-effective device for budget-conscious buyers",998,sample-images/product-061.jpg
+TEST0208,"Wireless System Elite",582.27,"Premium system with excellent performance",757,sample-images/product-135.jpg
+TEST0209,"Super System Max",765.59,"Innovative system with cutting-edge technology",930,sample-images/product-064.jpg
+TEST0210,"Professional Adapter Max",487.13,"Reliable adapter with advanced features",24,sample-images/product-048.jpg
+TEST0211,"Luxury Module Elite",181.12,"Reliable module with advanced features",949,sample-images/product-107.jpg
+TEST0212,"Ultra Apparatus X",332.50,"Compact apparatus with powerful capabilities",990,sample-images/product-157.jpg
+TEST0213,"Commercial Controller Z",682.95,"Perfect controller for everyday tasks",626,sample-images/product-081.jpg
+TEST0214,"Industrial Unit Mini",385.02,"Versatile unit suitable for multiple applications",667,sample-images/product-086.jpg
+TEST0215,"Heavy-Duty Sensor X",806.41,"Compact sensor with powerful capabilities",813,sample-images/product-039.jpg
+TEST0216,"High-Performance Module Lite",221.10,"Versatile module suitable for multiple applications",382,sample-images/product-037.jpg
+TEST0217,"Luxury Switch XL",665.79,"Cost-effective switch for budget-conscious buyers",647,sample-images/product-009.jpg
+TEST0218,"Luxury Component XS",64.28,"Cost-effective component for budget-conscious buyers",872,sample-images/product-189.jpg
+TEST0219,"Super Panel Elite",696.26,"High quality panel for professional use",568,sample-images/product-150.jpg
+TEST0220,"Innovative Widget Premium",120.33,"State-of-the-art widget with modern design",28,sample-images/product-039.jpg
+TEST0221,"Heavy-Duty Adapter C",603.96,"Cost-effective adapter for budget-conscious buyers",473,sample-images/product-170.jpg
+TEST0222,"Deluxe Tool Mini",329.57,"Compact tool with powerful capabilities",321,sample-images/product-109.jpg
+TEST0223,"Super Cable XL",984.87,"Perfect cable for everyday tasks",631,sample-images/product-176.jpg
+TEST0224,"Professional Tool Premium",585.71,"Cost-effective tool for budget-conscious buyers",766,sample-images/product-030.jpg
+TEST0225,"Premium Sensor XS",100.64,"Reliable sensor with advanced features",769,sample-images/product-092.jpg
+TEST0226,"Modern Controller Pro",353.99,"Innovative controller with cutting-edge technology",951,sample-images/product-145.jpg
+TEST0227,"Portable Tool Elite",685.95,"State-of-the-art tool with modern design",893,sample-images/product-148.jpg
+TEST0228,"Heavy-Duty Adapter Max",398.17,"Compact adapter with powerful capabilities",793,sample-images/product-106.jpg
+TEST0229,"Heavy-Duty Controller Plus",438.62,"Compact controller with powerful capabilities",16,sample-images/product-144.jpg
+TEST0230,"Ultra Connector Ultra",721.96,"Reliable connector with advanced features",629,sample-images/product-170.jpg
+TEST0231,"Smart Display 5000",326.07,"Cost-effective display for budget-conscious buyers",266,sample-images/product-104.jpg
+TEST0232,"Professional Adapter 2000",266.39,"High quality adapter for professional use",803,sample-images/product-182.jpg
+TEST0233,"Digital Component Pro",528.47,"Versatile component suitable for multiple applications",928,sample-images/product-002.jpg
+TEST0234,"Heavy-Duty Cable XS",914.81,"Premium cable with excellent performance",405,sample-images/product-102.jpg
+TEST0235,"Compact Machine Max",235.99,"High quality machine for professional use",867,sample-images/product-116.jpg
+TEST0236,"Industrial Cable Mini",123.91,"Compact cable with powerful capabilities",271,sample-images/product-104.jpg
+TEST0237,"Eco-Friendly Apparatus XS",234.14,"Premium apparatus with excellent performance",199,sample-images/product-122.jpg
+TEST0238,"Compact Interface Z",162.97,"Innovative interface with cutting-edge technology",402,sample-images/product-098.jpg
+TEST0239,"Deluxe Device X",415.95,"High quality device for professional use",304,sample-images/product-179.jpg
+TEST0240,"Industrial System Ultra",837.23,"State-of-the-art system with modern design",130,sample-images/product-150.jpg
+TEST0241,"Industrial Display Plus",601.89,"Durable display built to last",897,sample-images/product-106.jpg
+TEST0242,"Advanced Cable Z",535.22,"State-of-the-art cable with modern design",908,sample-images/product-020.jpg
+TEST0243,"Digital Interface HD",104.70,"State-of-the-art interface with modern design",751,sample-images/product-031.jpg
+TEST0244,"Eco-Friendly Monitor C",213.61,"Versatile monitor suitable for multiple applications",108,sample-images/product-032.jpg
+TEST0245,"Smart Display Pro",120.69,"Reliable display with advanced features",194,sample-images/product-022.jpg
+TEST0246,"Premium Connector Max",313.98,"Premium connector with excellent performance",926,sample-images/product-130.jpg
+TEST0247,"Digital Terminal Max",757.88,"Perfect terminal for everyday tasks",694,sample-images/product-118.jpg
+TEST0248,"Pro Equipment XS",872.25,"Durable equipment built to last",534,sample-images/product-171.jpg
+TEST0249,"Super Cable C",720.50,"High quality cable for professional use",881,sample-images/product-015.jpg
+TEST0250,"Basic Equipment 2000",143.33,"Innovative equipment with cutting-edge technology",575,sample-images/product-149.jpg
+TEST0251,"Elite Adapter Elite",950.14,"Innovative adapter with cutting-edge technology",437,sample-images/product-038.jpg
+TEST0252,"Eco-Friendly Machine Max",379.58,"State-of-the-art machine with modern design",821,sample-images/product-139.jpg
+TEST0253,"Portable Panel 2000",767.06,"Compact panel with powerful capabilities",131,sample-images/product-065.jpg
+TEST0254,"Basic Interface Z",605.72,"Cost-effective interface for budget-conscious buyers",142,sample-images/product-067.jpg
+TEST0255,"Professional Apparatus X",37.42,"State-of-the-art apparatus with modern design",201,sample-images/product-126.jpg
+TEST0256,"Classic Switch X",857.75,"High quality switch for professional use",205,sample-images/product-035.jpg
+TEST0257,"Luxury Panel Lite",443.67,"Premium panel with excellent performance",851,sample-images/product-105.jpg
+TEST0258,"Elite Controller Z",408.81,"Compact controller with powerful capabilities",284,sample-images/product-093.jpg
+TEST0259,"Elite Connector XS",152.59,"Perfect connector for everyday tasks",835,sample-images/product-008.jpg
+TEST0260,"Classic Terminal 2000",687.69,"High quality terminal for professional use",939,sample-images/product-168.jpg
+TEST0261,"Professional Hub 2000",884.78,"Premium hub with excellent performance",793,sample-images/product-086.jpg
+TEST0262,"Deluxe Hub HD",472.17,"Compact hub with powerful capabilities",151,sample-images/product-045.jpg
+TEST0263,"Premium Kit Z",177.40,"High quality kit for professional use",657,sample-images/product-059.jpg
+TEST0264,"Ultra Machine Lite",971.94,"Durable machine built to last",549,sample-images/product-170.jpg
+TEST0265,"Eco-Friendly Display Premium",967.77,"Compact display with powerful capabilities",585,sample-images/product-002.jpg
+TEST0266,"Classic Connector Premium",181.97,"Durable connector built to last",510,sample-images/product-117.jpg
+TEST0267,"Heavy-Duty Sensor Mini",351.21,"Innovative sensor with cutting-edge technology",632,sample-images/product-159.jpg
+TEST0268,"Basic Gadget 3000",713.48,"Durable gadget built to last",790,sample-images/product-055.jpg
+TEST0269,"Commercial Controller 2000",995.11,"Durable controller built to last",540,sample-images/product-174.jpg
+TEST0270,"Heavy-Duty System 3000",544.19,"High quality system for professional use",482,sample-images/product-199.jpg
+TEST0271,"Ultra Controller Pro",967.22,"Premium controller with excellent performance",828,sample-images/product-060.jpg
+TEST0272,"Eco-Friendly Component HD",232.75,"Premium component with excellent performance",794,sample-images/product-173.jpg
+TEST0273,"High-Performance Gadget XL",981.26,"Perfect gadget for everyday tasks",199,sample-images/product-195.jpg
+TEST0274,"Smart Terminal Lite",770.47,"Perfect terminal for everyday tasks",199,sample-images/product-108.jpg
+TEST0275,"High-Performance Hub B",892.51,"Versatile hub suitable for multiple applications",330,sample-images/product-190.jpg
+TEST0276,"Wireless Module Z",507.19,"Perfect module for everyday tasks",912,sample-images/product-067.jpg
+TEST0277,"Industrial Switch Lite",507.64,"Versatile switch suitable for multiple applications",737,sample-images/product-065.jpg
+TEST0278,"Compact Kit HD",31.75,"Versatile kit suitable for multiple applications",235,sample-images/product-197.jpg
+TEST0279,"Heavy-Duty Cable Lite",864.02,"State-of-the-art cable with modern design",953,sample-images/product-063.jpg
+TEST0280,"Heavy-Duty Component C",875.61,"State-of-the-art component with modern design",734,sample-images/product-100.jpg
+TEST0281,"Smart Gadget 2000",442.00,"High quality gadget for professional use",719,sample-images/product-142.jpg
+TEST0282,"Industrial Hub 5000",543.61,"Durable hub built to last",868,sample-images/product-110.jpg
+TEST0283,"Classic Equipment B",392.65,"Innovative equipment with cutting-edge technology",452,sample-images/product-025.jpg
+TEST0284,"Eco-Friendly System Premium",850.13,"State-of-the-art system with modern design",196,sample-images/product-127.jpg
+TEST0285,"Compact Adapter Elite",695.37,"Durable adapter built to last",925,sample-images/product-181.jpg
+TEST0286,"Basic Interface 5000",331.26,"High quality interface for professional use",420,sample-images/product-082.jpg
+TEST0287,"Advanced Monitor 3000",532.16,"Versatile monitor suitable for multiple applications",660,sample-images/product-115.jpg
+TEST0288,"Portable Equipment HD",992.61,"Compact equipment with powerful capabilities",59,sample-images/product-128.jpg
+TEST0289,"Digital Monitor XS",637.99,"Versatile monitor suitable for multiple applications",703,sample-images/product-019.jpg
+TEST0290,"Luxury Kit HD",45.42,"Cost-effective kit for budget-conscious buyers",814,sample-images/product-196.jpg
+TEST0291,"Ultra Tool 2000",920.93,"Perfect tool for everyday tasks",598,sample-images/product-166.jpg
+TEST0292,"High-Performance Hub Standard",203.01,"Compact hub with powerful capabilities",84,sample-images/product-118.jpg
+TEST0293,"Super Controller Premium",96.37,"Perfect controller for everyday tasks",770,sample-images/product-097.jpg
+TEST0294,"Professional Controller XS",750.96,"Premium controller with excellent performance",336,sample-images/product-170.jpg
+TEST0295,"Ultra Adapter 5000",72.84,"Perfect adapter for everyday tasks",61,sample-images/product-117.jpg
+TEST0296,"Premium System X",752.75,"Durable system built to last",152,sample-images/product-145.jpg
+TEST0297,"Ultra Terminal B",398.54,"Innovative terminal with cutting-edge technology",81,sample-images/product-160.jpg
+TEST0298,"Super Gadget C",532.99,"Compact gadget with powerful capabilities",64,sample-images/product-006.jpg
+TEST0299,"Eco-Friendly Instrument Plus",220.65,"Premium instrument with excellent performance",136,sample-images/product-071.jpg
+TEST0300,"Digital Switch Pro",266.12,"Compact switch with powerful capabilities",680,sample-images/product-060.jpg
+TEST0301,"Smart Controller Z",292.66,"Compact controller with powerful capabilities",789,sample-images/product-100.jpg
+TEST0302,"Luxury Display Ultra",119.31,"Premium display with excellent performance",845,sample-images/product-001.jpg
+TEST0303,"Premium Component Max",480.18,"State-of-the-art component with modern design",811,sample-images/product-028.jpg
+TEST0304,"Pro Cable Pro",867.89,"High quality cable for professional use",306,sample-images/product-034.jpg
+TEST0305,"Elite Hub X",937.94,"Reliable hub with advanced features",17,sample-images/product-055.jpg
+TEST0306,"Luxury Display B",103.01,"Versatile display suitable for multiple applications",857,sample-images/product-179.jpg
+TEST0307,"Premium Hub Premium",726.57,"Reliable hub with advanced features",785,sample-images/product-142.jpg
+TEST0308,"Heavy-Duty Equipment Standard",962.25,"Premium equipment with excellent performance",736,sample-images/product-098.jpg
+TEST0309,"Classic Equipment Pro",393.73,"Cost-effective equipment for budget-conscious buyers",595,sample-images/product-029.jpg
+TEST0310,"Elite Widget Pro",269.35,"Compact widget with powerful capabilities",545,sample-images/product-157.jpg
+TEST0311,"Commercial Kit XL",265.37,"Durable kit built to last",72,sample-images/product-093.jpg
+TEST0312,"Luxury Monitor XS",812.20,"Cost-effective monitor for budget-conscious buyers",811,sample-images/product-133.jpg
+TEST0313,"Digital Module Elite",185.16,"High quality module for professional use",769,sample-images/product-143.jpg
+TEST0314,"Ultra Component X",302.49,"State-of-the-art component with modern design",386,sample-images/product-165.jpg
+TEST0315,"Modern Gadget 3000",789.27,"High quality gadget for professional use",768,sample-images/product-095.jpg
+TEST0316,"Industrial Component Mini",184.15,"Versatile component suitable for multiple applications",338,sample-images/product-194.jpg
+TEST0317,"Modern Cable XL",748.03,"High quality cable for professional use",798,sample-images/product-152.jpg
+TEST0318,"Premium Hub 3000",289.66,"Reliable hub with advanced features",705,sample-images/product-038.jpg
+TEST0319,"High-Performance Widget Z",819.28,"Innovative widget with cutting-edge technology",643,sample-images/product-048.jpg
+TEST0320,"Eco-Friendly Terminal A",279.45,"Cost-effective terminal for budget-conscious buyers",283,sample-images/product-012.jpg
+TEST0321,"Ultra System C",181.09,"Compact system with powerful capabilities",375,sample-images/product-050.jpg
+TEST0322,"Basic Panel XS",827.12,"Premium panel with excellent performance",651,sample-images/product-080.jpg
+TEST0323,"Portable Widget Z",166.97,"State-of-the-art widget with modern design",686,sample-images/product-140.jpg
+TEST0324,"Classic Module Pro",197.08,"Compact module with powerful capabilities",659,sample-images/product-042.jpg
+TEST0325,"Advanced Tool A",477.62,"Compact tool with powerful capabilities",437,sample-images/product-003.jpg
+TEST0326,"Smart System A",61.28,"High quality system for professional use",436,sample-images/product-133.jpg
+TEST0327,"Pro Widget A",923.23,"Durable widget built to last",955,sample-images/product-002.jpg
+TEST0328,"Pro Tool 2000",806.78,"Durable tool built to last",646,sample-images/product-083.jpg
+TEST0329,"Wireless Panel Standard",163.13,"State-of-the-art panel with modern design",304,sample-images/product-001.jpg
+TEST0330,"Smart Widget 2000",662.00,"Durable widget built to last",296,sample-images/product-164.jpg
+TEST0331,"High-Performance Device Plus",375.41,"Durable device built to last",296,sample-images/product-014.jpg
+TEST0332,"Digital Interface Pro",87.25,"Cost-effective interface for budget-conscious buyers",105,sample-images/product-160.jpg
+TEST0333,"Pro System Plus",573.43,"Versatile system suitable for multiple applications",869,sample-images/product-143.jpg
+TEST0334,"Basic Controller 3000",445.29,"Perfect controller for everyday tasks",65,sample-images/product-018.jpg
+TEST0335,"Commercial Unit Pro",459.04,"Durable unit built to last",81,sample-images/product-190.jpg
+TEST0336,"Wireless Monitor X",68.64,"Versatile monitor suitable for multiple applications",924,sample-images/product-193.jpg
+TEST0337,"Ultra Terminal Elite",934.52,"Durable terminal built to last",144,sample-images/product-055.jpg
+TEST0338,"Essential Kit Max",170.62,"Premium kit with excellent performance",330,sample-images/product-137.jpg
+TEST0339,"Ultra Machine Max",444.32,"State-of-the-art machine with modern design",877,sample-images/product-022.jpg
+TEST0340,"Wireless Interface HD",957.49,"State-of-the-art interface with modern design",228,sample-images/product-048.jpg
+TEST0341,"Industrial Monitor XL",903.14,"Durable monitor built to last",754,sample-images/product-118.jpg
+TEST0342,"Advanced Display Standard",911.19,"Cost-effective display for budget-conscious buyers",930,sample-images/product-050.jpg
+TEST0343,"Ultra Terminal Lite",343.72,"Perfect terminal for everyday tasks",735,sample-images/product-125.jpg
+TEST0344,"Luxury System B",858.34,"High quality system for professional use",535,sample-images/product-066.jpg
+TEST0345,"Heavy-Duty Panel 2000",501.91,"Premium panel with excellent performance",676,sample-images/product-036.jpg
+TEST0346,"Professional Tool HD",446.77,"Versatile tool suitable for multiple applications",483,sample-images/product-158.jpg
+TEST0347,"Modern Terminal 2000",941.59,"Durable terminal built to last",164,sample-images/product-074.jpg
+TEST0348,"Ultra Widget 3000",658.78,"Reliable widget with advanced features",4,sample-images/product-107.jpg
+TEST0349,"Basic Device Premium",304.69,"Compact device with powerful capabilities",445,sample-images/product-182.jpg
+TEST0350,"High-Performance Sensor B",475.41,"High quality sensor for professional use",951,sample-images/product-180.jpg
+TEST0351,"Industrial Instrument HD",264.55,"Cost-effective instrument for budget-conscious buyers",456,sample-images/product-144.jpg
+TEST0352,"Portable Sensor 2000",829.40,"Durable sensor built to last",213,sample-images/product-134.jpg
+TEST0353,"Wireless Sensor Elite",609.42,"Perfect sensor for everyday tasks",811,sample-images/product-064.jpg
+TEST0354,"Heavy-Duty Terminal Pro",895.06,"Premium terminal with excellent performance",790,sample-images/product-117.jpg
+TEST0355,"Smart Gadget Pro",283.18,"State-of-the-art gadget with modern design",721,sample-images/product-184.jpg
+TEST0356,"Professional Display Z",342.58,"Compact display with powerful capabilities",254,sample-images/product-055.jpg
+TEST0357,"Heavy-Duty Equipment XL",84.55,"Cost-effective equipment for budget-conscious buyers",450,sample-images/product-025.jpg
+TEST0358,"Deluxe Kit Ultra",251.33,"Perfect kit for everyday tasks",679,sample-images/product-015.jpg
+TEST0359,"Compact Kit 3000",967.33,"Reliable kit with advanced features",255,sample-images/product-022.jpg
+TEST0360,"Compact Panel Mini",89.74,"Durable panel built to last",115,sample-images/product-060.jpg
+TEST0361,"Ultra Device Mini",90.55,"Compact device with powerful capabilities",261,sample-images/product-132.jpg
+TEST0362,"Deluxe System Pro",966.66,"Perfect system for everyday tasks",430,sample-images/product-032.jpg
+TEST0363,"Heavy-Duty System C",270.89,"Durable system built to last",243,sample-images/product-195.jpg
+TEST0364,"Advanced Module X",62.44,"Versatile module suitable for multiple applications",922,sample-images/product-144.jpg
+TEST0365,"Industrial Hub B",971.13,"State-of-the-art hub with modern design",588,sample-images/product-077.jpg
+TEST0366,"Elite Monitor 3000",109.15,"Versatile monitor suitable for multiple applications",830,sample-images/product-066.jpg
+TEST0367,"Compact Cable B",563.09,"Premium cable with excellent performance",638,sample-images/product-003.jpg
+TEST0368,"Essential Unit Z",725.41,"Perfect unit for everyday tasks",831,sample-images/product-059.jpg
+TEST0369,"Ultra Switch Standard",40.81,"Reliable switch with advanced features",150,sample-images/product-020.jpg
+TEST0370,"Essential Display HD",438.38,"Compact display with powerful capabilities",494,sample-images/product-168.jpg
+TEST0371,"Super Sensor Elite",357.23,"Durable sensor built to last",172,sample-images/product-170.jpg
+TEST0372,"Luxury Widget XS",417.28,"Compact widget with powerful capabilities",479,sample-images/product-097.jpg
+TEST0373,"Elite Apparatus X",381.62,"Innovative apparatus with cutting-edge technology",195,sample-images/product-055.jpg
+TEST0374,"Portable Apparatus XS",775.59,"Compact apparatus with powerful capabilities",951,sample-images/product-110.jpg
+TEST0375,"Smart Adapter Mini",898.15,"Perfect adapter for everyday tasks",734,sample-images/product-161.jpg
+TEST0376,"Innovative Connector Standard",191.32,"Durable connector built to last",542,sample-images/product-189.jpg
+TEST0377,"Super Interface XS",803.27,"Premium interface with excellent performance",596,sample-images/product-154.jpg
+TEST0378,"High-Performance Instrument X",971.91,"Perfect instrument for everyday tasks",328,sample-images/product-154.jpg
+TEST0379,"Pro Panel Max",903.31,"Perfect panel for everyday tasks",34,sample-images/product-120.jpg
+TEST0380,"Super Sensor Elite",125.53,"Reliable sensor with advanced features",353,sample-images/product-094.jpg
+TEST0381,"Portable Controller Lite",32.46,"High quality controller for professional use",120,sample-images/product-062.jpg
+TEST0382,"Commercial Connector 3000",31.45,"Premium connector with excellent performance",578,sample-images/product-101.jpg
+TEST0383,"Elite Connector 2000",760.57,"Perfect connector for everyday tasks",283,sample-images/product-005.jpg
+TEST0384,"Professional Equipment 2000",322.06,"Versatile equipment suitable for multiple applications",473,sample-images/product-155.jpg
+TEST0385,"Elite Cable XL",169.97,"Cost-effective cable for budget-conscious buyers",951,sample-images/product-081.jpg
+TEST0386,"Advanced Controller Max",73.14,"Reliable controller with advanced features",886,sample-images/product-024.jpg
+TEST0387,"Classic Kit Pro",767.46,"Perfect kit for everyday tasks",455,sample-images/product-126.jpg
+TEST0388,"Heavy-Duty Equipment 3000",568.24,"Compact equipment with powerful capabilities",818,sample-images/product-039.jpg
+TEST0389,"Essential Equipment C",433.69,"Innovative equipment with cutting-edge technology",211,sample-images/product-067.jpg
+TEST0390,"Elite Widget Pro",628.70,"Cost-effective widget for budget-conscious buyers",636,sample-images/product-089.jpg
+TEST0391,"Luxury Interface 2000",840.30,"Durable interface built to last",875,sample-images/product-132.jpg
+TEST0392,"Pro Kit C",890.30,"Perfect kit for everyday tasks",691,sample-images/product-142.jpg
+TEST0393,"Portable Terminal Standard",587.18,"Compact terminal with powerful capabilities",806,sample-images/product-011.jpg
+TEST0394,"Classic Instrument HD",30.67,"Perfect instrument for everyday tasks",173,sample-images/product-075.jpg
+TEST0395,"Deluxe Component XS",446.56,"Reliable component with advanced features",310,sample-images/product-109.jpg
+TEST0396,"Innovative Kit A",124.93,"Premium kit with excellent performance",345,sample-images/product-148.jpg
+TEST0397,"Ultra Panel B",553.55,"Cost-effective panel for budget-conscious buyers",759,sample-images/product-083.jpg
+TEST0398,"Industrial System Elite",664.47,"Premium system with excellent performance",450,sample-images/product-142.jpg
+TEST0399,"Premium Device Standard",511.67,"High quality device for professional use",327,sample-images/product-049.jpg
+TEST0400,"Portable Controller A",356.89,"Reliable controller with advanced features",421,sample-images/product-184.jpg
+TEST0401,"Ultra Monitor X",502.04,"Reliable monitor with advanced features",554,sample-images/product-171.jpg
+TEST0402,"Portable Terminal Standard",83.21,"Premium terminal with excellent performance",538,sample-images/product-083.jpg
+TEST0403,"High-Performance Kit Ultra",155.62,"Compact kit with powerful capabilities",818,sample-images/product-057.jpg
+TEST0404,"Ultra Widget 5000",854.34,"Reliable widget with advanced features",968,sample-images/product-164.jpg
+TEST0405,"Eco-Friendly Module Max",570.17,"State-of-the-art module with modern design",19,sample-images/product-169.jpg
+TEST0406,"Ultra Interface C",157.62,"High quality interface for professional use",867,sample-images/product-037.jpg
+TEST0407,"Basic Instrument A",723.48,"Compact instrument with powerful capabilities",935,sample-images/product-064.jpg
+TEST0408,"Basic Panel Max",822.45,"Cost-effective panel for budget-conscious buyers",573,sample-images/product-146.jpg
+TEST0409,"Deluxe Controller Standard",80.03,"Cost-effective controller for budget-conscious buyers",420,sample-images/product-035.jpg
+TEST0410,"Compact Kit Standard",79.94,"Perfect kit for everyday tasks",342,sample-images/product-005.jpg
+TEST0411,"Industrial Module A",392.40,"State-of-the-art module with modern design",802,sample-images/product-029.jpg
+TEST0412,"Wireless Panel Standard",228.76,"Reliable panel with advanced features",835,sample-images/product-043.jpg
+TEST0413,"Luxury Apparatus Max",688.18,"Durable apparatus built to last",138,sample-images/product-032.jpg
+TEST0414,"Pro Terminal Mini",31.61,"Cost-effective terminal for budget-conscious buyers",262,sample-images/product-032.jpg
+TEST0415,"Advanced Instrument Lite",322.83,"Compact instrument with powerful capabilities",587,sample-images/product-155.jpg
+TEST0416,"Smart Device XS",438.53,"High quality device for professional use",666,sample-images/product-043.jpg
+TEST0417,"Professional Cable Plus",684.17,"State-of-the-art cable with modern design",630,sample-images/product-099.jpg
+TEST0418,"Professional Panel Elite",724.78,"Perfect panel for everyday tasks",36,sample-images/product-162.jpg
+TEST0419,"Ultra Machine Premium",877.66,"Premium machine with excellent performance",782,sample-images/product-020.jpg
+TEST0420,"Innovative Gadget Standard",434.64,"Cost-effective gadget for budget-conscious buyers",408,sample-images/product-169.jpg
+TEST0421,"Commercial Device Premium",538.76,"State-of-the-art device with modern design",967,sample-images/product-009.jpg
+TEST0422,"Premium Instrument X",586.33,"State-of-the-art instrument with modern design",277,sample-images/product-105.jpg
+TEST0423,"Eco-Friendly Display Standard",509.04,"Premium display with excellent performance",134,sample-images/product-130.jpg
+TEST0424,"Premium Adapter 5000",321.90,"Perfect adapter for everyday tasks",908,sample-images/product-020.jpg
+TEST0425,"Digital Sensor 3000",860.38,"Cost-effective sensor for budget-conscious buyers",295,sample-images/product-185.jpg
+TEST0426,"Deluxe Widget A",538.26,"Versatile widget suitable for multiple applications",731,sample-images/product-082.jpg
+TEST0427,"High-Performance Tool Ultra",234.01,"Premium tool with excellent performance",215,sample-images/product-179.jpg
+TEST0428,"Classic Switch XL",853.42,"Compact switch with powerful capabilities",800,sample-images/product-023.jpg
+TEST0429,"Digital Instrument XL",837.29,"High quality instrument for professional use",765,sample-images/product-046.jpg
+TEST0430,"Industrial Controller Z",171.02,"Versatile controller suitable for multiple applications",646,sample-images/product-055.jpg
+TEST0431,"Ultra Cable X",908.92,"Perfect cable for everyday tasks",411,sample-images/product-183.jpg
+TEST0432,"Luxury Controller Premium",764.90,"Compact controller with powerful capabilities",943,sample-images/product-070.jpg
+TEST0433,"Compact Unit Premium",85.50,"High quality unit for professional use",766,sample-images/product-187.jpg
+TEST0434,"High-Performance Monitor XL",604.63,"Innovative monitor with cutting-edge technology",571,sample-images/product-088.jpg
+TEST0435,"High-Performance Tool Pro",65.55,"Premium tool with excellent performance",581,sample-images/product-082.jpg
+TEST0436,"Classic Controller Elite",466.41,"Durable controller built to last",497,sample-images/product-165.jpg
+TEST0437,"Industrial Monitor Pro",386.96,"Reliable monitor with advanced features",266,sample-images/product-027.jpg
+TEST0438,"Premium Hub HD",487.38,"Premium hub with excellent performance",386,sample-images/product-056.jpg
+TEST0439,"Portable Adapter Ultra",964.31,"Premium adapter with excellent performance",94,sample-images/product-124.jpg
+TEST0440,"Premium Cable HD",367.66,"Compact cable with powerful capabilities",379,sample-images/product-005.jpg
+TEST0441,"Commercial System 5000",749.47,"Compact system with powerful capabilities",404,sample-images/product-059.jpg
+TEST0442,"Deluxe Interface 3000",848.90,"High quality interface for professional use",986,sample-images/product-138.jpg
+TEST0443,"Essential Controller Elite",807.26,"Reliable controller with advanced features",222,sample-images/product-169.jpg
+TEST0444,"Elite Monitor X",666.19,"Premium monitor with excellent performance",127,sample-images/product-199.jpg
+TEST0445,"Essential Switch XS",721.16,"Compact switch with powerful capabilities",868,sample-images/product-050.jpg
+TEST0446,"Innovative Module Plus",531.74,"Compact module with powerful capabilities",627,sample-images/product-151.jpg
+TEST0447,"Professional Gadget Lite",668.93,"Versatile gadget suitable for multiple applications",52,sample-images/product-062.jpg
+TEST0448,"Advanced Terminal A",372.27,"Premium terminal with excellent performance",489,sample-images/product-079.jpg
+TEST0449,"Commercial Cable A",687.67,"Durable cable built to last",494,sample-images/product-115.jpg
+TEST0450,"Classic Module Max",855.43,"Compact module with powerful capabilities",746,sample-images/product-061.jpg
+TEST0451,"Compact Widget Z",527.20,"Versatile widget suitable for multiple applications",236,sample-images/product-133.jpg
+TEST0452,"Ultra Component HD",974.12,"Durable component built to last",22,sample-images/product-147.jpg
+TEST0453,"Basic Machine Elite",200.35,"Premium machine with excellent performance",364,sample-images/product-064.jpg
+TEST0454,"Modern Kit B",611.66,"Compact kit with powerful capabilities",527,sample-images/product-060.jpg
+TEST0455,"Premium Module X",741.68,"Innovative module with cutting-edge technology",335,sample-images/product-191.jpg
+TEST0456,"Elite Interface HD",296.75,"Durable interface built to last",377,sample-images/product-181.jpg
+TEST0457,"Super Sensor Standard",858.67,"Durable sensor built to last",356,sample-images/product-026.jpg
+TEST0458,"Eco-Friendly Tool XS",56.98,"Perfect tool for everyday tasks",336,sample-images/product-140.jpg
+TEST0459,"High-Performance Controller 3000",281.75,"Compact controller with powerful capabilities",286,sample-images/product-060.jpg
+TEST0460,"Essential Connector Mini",615.20,"Premium connector with excellent performance",287,sample-images/product-104.jpg
+TEST0461,"Compact Panel Plus",610.05,"Cost-effective panel for budget-conscious buyers",662,sample-images/product-047.jpg
+TEST0462,"Commercial Unit Elite",947.18,"Innovative unit with cutting-edge technology",573,sample-images/product-190.jpg
+TEST0463,"High-Performance Connector B",766.64,"Versatile connector suitable for multiple applications",392,sample-images/product-012.jpg
+TEST0464,"Basic Controller Standard",781.72,"Versatile controller suitable for multiple applications",274,sample-images/product-136.jpg
+TEST0465,"Smart Tool 2000",551.25,"Premium tool with excellent performance",504,sample-images/product-097.jpg
+TEST0466,"Smart Unit 5000",46.18,"Compact unit with powerful capabilities",559,sample-images/product-110.jpg
+TEST0467,"Portable Component 5000",386.21,"Innovative component with cutting-edge technology",323,sample-images/product-007.jpg
+TEST0468,"Premium Instrument Lite",532.14,"Cost-effective instrument for budget-conscious buyers",10,sample-images/product-056.jpg
+TEST0469,"Professional Component Premium",308.93,"Cost-effective component for budget-conscious buyers",201,sample-images/product-041.jpg
+TEST0470,"Elite Machine Elite",758.32,"Premium machine with excellent performance",622,sample-images/product-180.jpg
+TEST0471,"Professional Controller Ultra",175.66,"Durable controller built to last",309,sample-images/product-146.jpg
+TEST0472,"Innovative Controller 2000",563.45,"Reliable controller with advanced features",538,sample-images/product-065.jpg
+TEST0473,"Industrial Adapter HD",570.81,"Innovative adapter with cutting-edge technology",733,sample-images/product-102.jpg
+TEST0474,"Portable Connector Z",435.51,"Versatile connector suitable for multiple applications",526,sample-images/product-125.jpg
+TEST0475,"Commercial Connector HD",835.27,"Durable connector built to last",931,sample-images/product-086.jpg
+TEST0476,"Eco-Friendly Component 3000",134.64,"Versatile component suitable for multiple applications",942,sample-images/product-155.jpg
+TEST0477,"Basic Terminal Max",91.03,"Innovative terminal with cutting-edge technology",639,sample-images/product-117.jpg
+TEST0478,"Portable Apparatus Ultra",480.99,"State-of-the-art apparatus with modern design",411,sample-images/product-046.jpg
+TEST0479,"Industrial Widget Ultra",868.30,"Innovative widget with cutting-edge technology",719,sample-images/product-097.jpg
+TEST0480,"Premium Instrument Mini",750.18,"Versatile instrument suitable for multiple applications",153,sample-images/product-047.jpg
+TEST0481,"Innovative System A",804.24,"Compact system with powerful capabilities",767,sample-images/product-055.jpg
+TEST0482,"Super Kit B",142.52,"Premium kit with excellent performance",486,sample-images/product-068.jpg
+TEST0483,"Heavy-Duty Component B",962.67,"Innovative component with cutting-edge technology",545,sample-images/product-048.jpg
+TEST0484,"Smart System HD",974.46,"Reliable system with advanced features",207,sample-images/product-044.jpg
+TEST0485,"High-Performance Sensor 2000",717.51,"Innovative sensor with cutting-edge technology",226,sample-images/product-002.jpg
+TEST0486,"Essential Machine C",412.61,"Reliable machine with advanced features",14,sample-images/product-133.jpg
+TEST0487,"Heavy-Duty Terminal B",267.37,"Premium terminal with excellent performance",778,sample-images/product-033.jpg
+TEST0488,"Pro Gadget XS",777.67,"Reliable gadget with advanced features",553,sample-images/product-128.jpg
+TEST0489,"Luxury Switch Lite",84.72,"High quality switch for professional use",708,sample-images/product-116.jpg
+TEST0490,"Industrial Apparatus 2000",221.59,"Cost-effective apparatus for budget-conscious buyers",428,sample-images/product-111.jpg
+TEST0491,"Luxury Component C",451.70,"Perfect component for everyday tasks",189,sample-images/product-050.jpg
+TEST0492,"Premium Sensor Z",181.54,"Cost-effective sensor for budget-conscious buyers",617,sample-images/product-019.jpg
+TEST0493,"Eco-Friendly Controller C",649.04,"Perfect controller for everyday tasks",177,sample-images/product-030.jpg
+TEST0494,"Super Switch 2000",84.67,"High quality switch for professional use",965,sample-images/product-193.jpg
+TEST0495,"Elite Controller Elite",412.18,"Perfect controller for everyday tasks",508,sample-images/product-082.jpg
+TEST0496,"Industrial Display Elite",748.67,"Durable display built to last",662,sample-images/product-092.jpg
+TEST0497,"Digital Interface C",644.47,"Premium interface with excellent performance",695,sample-images/product-068.jpg
+TEST0498,"Luxury Apparatus Plus",371.31,"Compact apparatus with powerful capabilities",146,sample-images/product-016.jpg
+TEST0499,"Digital Switch Lite",814.20,"Compact switch with powerful capabilities",208,sample-images/product-174.jpg
+TEST0500,"Smart Cable XS",521.46,"Innovative cable with cutting-edge technology",74,sample-images/product-119.jpg
+TEST0501,"Advanced Display B",925.44,"Versatile display suitable for multiple applications",783,sample-images/product-022.jpg
+TEST0502,"Advanced Kit Z",669.37,"High quality kit for professional use",631,sample-images/product-088.jpg
+TEST0503,"Premium Hub B",994.02,"Cost-effective hub for budget-conscious buyers",575,sample-images/product-084.jpg
+TEST0504,"Eco-Friendly Controller Z",751.85,"Durable controller built to last",734,sample-images/product-192.jpg
+TEST0505,"Heavy-Duty Module 2000",279.94,"High quality module for professional use",728,sample-images/product-200.jpg
+TEST0506,"Digital Equipment Lite",385.61,"Premium equipment with excellent performance",17,sample-images/product-083.jpg
+TEST0507,"Compact Switch Elite",139.55,"Reliable switch with advanced features",76,sample-images/product-002.jpg
+TEST0508,"Digital Instrument A",673.71,"State-of-the-art instrument with modern design",933,sample-images/product-119.jpg
+TEST0509,"Professional Monitor 2000",666.01,"High quality monitor for professional use",765,sample-images/product-176.jpg
+TEST0510,"High-Performance Monitor Lite",25.35,"Perfect monitor for everyday tasks",266,sample-images/product-145.jpg
+TEST0511,"Eco-Friendly Apparatus XS",499.27,"Compact apparatus with powerful capabilities",532,sample-images/product-192.jpg
+TEST0512,"Deluxe Instrument A",301.19,"High quality instrument for professional use",767,sample-images/product-165.jpg
+TEST0513,"Luxury Hub 5000",674.31,"Perfect hub for everyday tasks",424,sample-images/product-157.jpg
+TEST0514,"Compact Panel Plus",156.72,"Innovative panel with cutting-edge technology",731,sample-images/product-022.jpg
+TEST0515,"Modern System Elite",614.18,"Durable system built to last",829,sample-images/product-167.jpg
+TEST0516,"Advanced Controller A",734.71,"Versatile controller suitable for multiple applications",748,sample-images/product-157.jpg
+TEST0517,"Classic Device Max",110.72,"Innovative device with cutting-edge technology",114,sample-images/product-084.jpg
+TEST0518,"Industrial Tool Plus",229.14,"Innovative tool with cutting-edge technology",633,sample-images/product-032.jpg
+TEST0519,"Pro Tool HD",404.57,"Premium tool with excellent performance",767,sample-images/product-190.jpg
+TEST0520,"Wireless Tool Max",884.90,"Perfect tool for everyday tasks",226,sample-images/product-176.jpg
+TEST0521,"Super Widget 3000",741.66,"Perfect widget for everyday tasks",38,sample-images/product-055.jpg
+TEST0522,"Premium Controller Z",391.36,"Compact controller with powerful capabilities",165,sample-images/product-117.jpg
+TEST0523,"Elite Sensor XL",103.94,"High quality sensor for professional use",811,sample-images/product-098.jpg
+TEST0524,"Super Widget Premium",309.47,"State-of-the-art widget with modern design",142,sample-images/product-142.jpg
+TEST0525,"Luxury Terminal B",56.25,"High quality terminal for professional use",916,sample-images/product-048.jpg
+TEST0526,"Modern System Pro",397.69,"Compact system with powerful capabilities",96,sample-images/product-144.jpg
+TEST0527,"Professional Tool HD",445.58,"Durable tool built to last",864,sample-images/product-137.jpg
+TEST0528,"Professional Gadget 3000",827.19,"Compact gadget with powerful capabilities",737,sample-images/product-022.jpg
+TEST0529,"Super Unit XS",342.03,"Cost-effective unit for budget-conscious buyers",133,sample-images/product-187.jpg
+TEST0530,"Basic Controller XL",455.64,"Durable controller built to last",79,sample-images/product-060.jpg
+TEST0531,"Super Widget Z",694.27,"Compact widget with powerful capabilities",834,sample-images/product-137.jpg
+TEST0532,"High-Performance Tool Plus",313.92,"State-of-the-art tool with modern design",931,sample-images/product-195.jpg
+TEST0533,"High-Performance Equipment Z",688.81,"State-of-the-art equipment with modern design",55,sample-images/product-117.jpg
+TEST0534,"Wireless Controller Plus",371.10,"Durable controller built to last",970,sample-images/product-103.jpg
+TEST0535,"Industrial Gadget C",125.21,"Cost-effective gadget for budget-conscious buyers",691,sample-images/product-106.jpg
+TEST0536,"Classic Gadget 5000",520.14,"High quality gadget for professional use",6,sample-images/product-015.jpg
+TEST0537,"Super System XL",352.18,"Premium system with excellent performance",274,sample-images/product-171.jpg
+TEST0538,"Elite Monitor HD",38.19,"Innovative monitor with cutting-edge technology",224,sample-images/product-183.jpg
+TEST0539,"Classic Device Plus",646.48,"Compact device with powerful capabilities",934,sample-images/product-048.jpg
+TEST0540,"Eco-Friendly Adapter HD",978.83,"Reliable adapter with advanced features",743,sample-images/product-102.jpg
+TEST0541,"Wireless Apparatus Plus",348.59,"Compact apparatus with powerful capabilities",101,sample-images/product-008.jpg
+TEST0542,"Innovative Equipment A",480.45,"Cost-effective equipment for budget-conscious buyers",805,sample-images/product-086.jpg
+TEST0543,"Premium Module Z",651.62,"Reliable module with advanced features",889,sample-images/product-168.jpg
+TEST0544,"Digital Machine X",131.34,"Perfect machine for everyday tasks",91,sample-images/product-146.jpg
+TEST0545,"Eco-Friendly Adapter Premium",540.82,"State-of-the-art adapter with modern design",689,sample-images/product-147.jpg
+TEST0546,"Eco-Friendly Controller Plus",930.16,"Reliable controller with advanced features",847,sample-images/product-191.jpg
+TEST0547,"Classic Switch X",312.29,"Reliable switch with advanced features",254,sample-images/product-084.jpg
+TEST0548,"Premium Monitor B",870.63,"High quality monitor for professional use",693,sample-images/product-008.jpg
+TEST0549,"Modern Widget C",717.63,"Innovative widget with cutting-edge technology",355,sample-images/product-200.jpg
+TEST0550,"Digital Panel C",873.60,"Premium panel with excellent performance",444,sample-images/product-026.jpg
+TEST0551,"Wireless Sensor Max",834.73,"High quality sensor for professional use",546,sample-images/product-114.jpg
+TEST0552,"Portable Widget B",296.77,"Durable widget built to last",261,sample-images/product-146.jpg
+TEST0553,"Luxury System Ultra",377.10,"Compact system with powerful capabilities",491,sample-images/product-061.jpg
+TEST0554,"Innovative Widget Pro",977.33,"State-of-the-art widget with modern design",247,sample-images/product-060.jpg
+TEST0555,"Essential Panel A",683.21,"Perfect panel for everyday tasks",234,sample-images/product-110.jpg
+TEST0556,"Deluxe Gadget Ultra",488.37,"Reliable gadget with advanced features",244,sample-images/product-199.jpg
+TEST0557,"Pro Unit A",977.50,"Reliable unit with advanced features",228,sample-images/product-023.jpg
+TEST0558,"Classic Apparatus Max",205.06,"Cost-effective apparatus for budget-conscious buyers",681,sample-images/product-185.jpg
+TEST0559,"Super Kit XL",454.22,"Durable kit built to last",559,sample-images/product-005.jpg
+TEST0560,"Classic Sensor Max",855.31,"State-of-the-art sensor with modern design",749,sample-images/product-093.jpg
+TEST0561,"Heavy-Duty Controller HD",416.72,"State-of-the-art controller with modern design",138,sample-images/product-146.jpg
+TEST0562,"Advanced Cable Standard",879.80,"Premium cable with excellent performance",302,sample-images/product-067.jpg
+TEST0563,"High-Performance Terminal Mini",722.78,"Perfect terminal for everyday tasks",66,sample-images/product-119.jpg
+TEST0564,"Innovative Widget 2000",58.88,"Perfect widget for everyday tasks",321,sample-images/product-141.jpg
+TEST0565,"Commercial Module XL",711.49,"Durable module built to last",911,sample-images/product-137.jpg
+TEST0566,"Ultra Unit Plus",320.15,"Compact unit with powerful capabilities",371,sample-images/product-123.jpg
+TEST0567,"Heavy-Duty Cable A",650.85,"State-of-the-art cable with modern design",331,sample-images/product-151.jpg
+TEST0568,"Modern Unit Standard",181.08,"Versatile unit suitable for multiple applications",750,sample-images/product-070.jpg
+TEST0569,"Smart Instrument Ultra",354.77,"High quality instrument for professional use",9,sample-images/product-035.jpg
+TEST0570,"Advanced Cable Max",314.00,"Perfect cable for everyday tasks",508,sample-images/product-111.jpg
+TEST0571,"Heavy-Duty Sensor Mini",349.52,"High quality sensor for professional use",344,sample-images/product-091.jpg
+TEST0572,"Heavy-Duty Connector Elite",361.49,"State-of-the-art connector with modern design",400,sample-images/product-038.jpg
+TEST0573,"Heavy-Duty Apparatus Z",495.71,"Durable apparatus built to last",575,sample-images/product-197.jpg
+TEST0574,"Commercial Controller 3000",47.79,"Cost-effective controller for budget-conscious buyers",417,sample-images/product-024.jpg
+TEST0575,"Elite Component 5000",945.58,"Innovative component with cutting-edge technology",879,sample-images/product-151.jpg
+TEST0576,"Commercial Component Lite",513.31,"Reliable component with advanced features",788,sample-images/product-141.jpg
+TEST0577,"Super Sensor Pro",843.83,"Perfect sensor for everyday tasks",875,sample-images/product-193.jpg
+TEST0578,"Modern Terminal Plus",379.07,"High quality terminal for professional use",282,sample-images/product-101.jpg
+TEST0579,"Super Kit Elite",829.38,"Cost-effective kit for budget-conscious buyers",89,sample-images/product-116.jpg
+TEST0580,"Heavy-Duty Instrument XS",777.20,"Reliable instrument with advanced features",587,sample-images/product-128.jpg
+TEST0581,"Elite Widget Mini",903.74,"Perfect widget for everyday tasks",189,sample-images/product-059.jpg
+TEST0582,"Industrial Gadget XL",479.15,"Versatile gadget suitable for multiple applications",437,sample-images/product-049.jpg
+TEST0583,"Advanced Terminal B",725.97,"Cost-effective terminal for budget-conscious buyers",618,sample-images/product-194.jpg
+TEST0584,"Eco-Friendly Interface Premium",637.13,"Reliable interface with advanced features",437,sample-images/product-153.jpg
+TEST0585,"Classic Component Elite",250.17,"Versatile component suitable for multiple applications",724,sample-images/product-153.jpg
+TEST0586,"Essential Connector Ultra",975.29,"Cost-effective connector for budget-conscious buyers",25,sample-images/product-013.jpg
+TEST0587,"Premium Tool Premium",633.63,"High quality tool for professional use",475,sample-images/product-049.jpg
+TEST0588,"Advanced Connector Max",920.27,"Compact connector with powerful capabilities",451,sample-images/product-131.jpg
+TEST0589,"Portable Kit Mini",852.35,"Perfect kit for everyday tasks",934,sample-images/product-019.jpg
+TEST0590,"Advanced Monitor Pro",985.55,"Durable monitor built to last",182,sample-images/product-110.jpg
+TEST0591,"Smart Equipment Elite",12.78,"Versatile equipment suitable for multiple applications",161,sample-images/product-130.jpg
+TEST0592,"High-Performance Apparatus Standard",949.19,"Cost-effective apparatus for budget-conscious buyers",209,sample-images/product-071.jpg
+TEST0593,"Industrial Apparatus 5000",75.10,"Versatile apparatus suitable for multiple applications",371,sample-images/product-011.jpg
+TEST0594,"Ultra Connector Plus",585.87,"State-of-the-art connector with modern design",991,sample-images/product-087.jpg
+TEST0595,"Industrial Tool XL",569.18,"Innovative tool with cutting-edge technology",723,sample-images/product-055.jpg
+TEST0596,"Ultra Terminal C",741.56,"Versatile terminal suitable for multiple applications",140,sample-images/product-101.jpg
+TEST0597,"Heavy-Duty System Max",604.11,"High quality system for professional use",713,sample-images/product-167.jpg
+TEST0598,"Portable System X",332.68,"Versatile system suitable for multiple applications",457,sample-images/product-113.jpg
+TEST0599,"Wireless Connector C",893.02,"High quality connector for professional use",423,sample-images/product-056.jpg
+TEST0600,"Compact Adapter C",95.47,"Compact adapter with powerful capabilities",645,sample-images/product-144.jpg
+TEST0601,"Innovative Apparatus A",165.70,"Versatile apparatus suitable for multiple applications",285,sample-images/product-181.jpg
+TEST0602,"Elite Kit C",349.15,"Compact kit with powerful capabilities",652,sample-images/product-009.jpg
+TEST0603,"Deluxe Unit X",109.78,"Durable unit built to last",825,sample-images/product-174.jpg
+TEST0604,"Eco-Friendly Module X",325.55,"Premium module with excellent performance",582,sample-images/product-114.jpg
+TEST0605,"Professional Hub 5000",509.73,"High quality hub for professional use",584,sample-images/product-165.jpg
+TEST0606,"Wireless Apparatus Plus",828.76,"Perfect apparatus for everyday tasks",812,sample-images/product-054.jpg
+TEST0607,"Essential Switch XS",331.41,"Perfect switch for everyday tasks",89,sample-images/product-013.jpg
+TEST0608,"Basic Widget XS",982.72,"Premium widget with excellent performance",188,sample-images/product-090.jpg
+TEST0609,"Digital Terminal 2000",688.23,"Cost-effective terminal for budget-conscious buyers",206,sample-images/product-008.jpg
+TEST0610,"Classic Widget 2000",63.04,"Cost-effective widget for budget-conscious buyers",730,sample-images/product-126.jpg
+TEST0611,"Advanced Machine 5000",601.14,"Versatile machine suitable for multiple applications",821,sample-images/product-094.jpg
+TEST0612,"Basic Tool Max",866.67,"High quality tool for professional use",111,sample-images/product-033.jpg
+TEST0613,"Luxury Equipment HD",443.76,"Versatile equipment suitable for multiple applications",97,sample-images/product-091.jpg
+TEST0614,"Pro System Standard",807.30,"Durable system built to last",218,sample-images/product-006.jpg
+TEST0615,"Super Component A",279.70,"Innovative component with cutting-edge technology",696,sample-images/product-176.jpg
+TEST0616,"Premium Switch 3000",354.19,"Reliable switch with advanced features",183,sample-images/product-118.jpg
+TEST0617,"Smart Machine Standard",831.99,"Versatile machine suitable for multiple applications",585,sample-images/product-029.jpg
+TEST0618,"Premium Adapter A",247.35,"State-of-the-art adapter with modern design",214,sample-images/product-008.jpg
+TEST0619,"Compact Apparatus HD",66.23,"Versatile apparatus suitable for multiple applications",514,sample-images/product-167.jpg
+TEST0620,"High-Performance Monitor Standard",889.73,"Cost-effective monitor for budget-conscious buyers",118,sample-images/product-167.jpg
+TEST0621,"Portable Device Plus",987.06,"Premium device with excellent performance",558,sample-images/product-003.jpg
+TEST0622,"Digital System Pro",122.34,"Versatile system suitable for multiple applications",162,sample-images/product-010.jpg
+TEST0623,"Deluxe Sensor 2000",253.78,"Cost-effective sensor for budget-conscious buyers",475,sample-images/product-135.jpg
+TEST0624,"Pro Panel Ultra",305.43,"Perfect panel for everyday tasks",74,sample-images/product-030.jpg
+TEST0625,"Advanced Panel Lite",309.06,"Versatile panel suitable for multiple applications",449,sample-images/product-173.jpg
+TEST0626,"Deluxe Hub 2000",297.63,"High quality hub for professional use",206,sample-images/product-059.jpg
+TEST0627,"Ultra Module B",826.15,"State-of-the-art module with modern design",961,sample-images/product-183.jpg
+TEST0628,"Wireless Cable B",446.04,"Perfect cable for everyday tasks",397,sample-images/product-007.jpg
+TEST0629,"Portable Machine Lite",580.18,"Innovative machine with cutting-edge technology",526,sample-images/product-099.jpg
+TEST0630,"Basic Terminal Ultra",196.64,"State-of-the-art terminal with modern design",653,sample-images/product-044.jpg
+TEST0631,"High-Performance Panel 2000",511.01,"Innovative panel with cutting-edge technology",442,sample-images/product-135.jpg
+TEST0632,"Elite Panel Plus",786.01,"Durable panel built to last",819,sample-images/product-165.jpg
+TEST0633,"Portable Controller Mini",828.34,"Innovative controller with cutting-edge technology",245,sample-images/product-154.jpg
+TEST0634,"Eco-Friendly Connector B",915.88,"Innovative connector with cutting-edge technology",624,sample-images/product-065.jpg
+TEST0635,"Portable Component B",751.03,"Cost-effective component for budget-conscious buyers",221,sample-images/product-178.jpg
+TEST0636,"Professional System HD",108.47,"Innovative system with cutting-edge technology",925,sample-images/product-082.jpg
+TEST0637,"Super Tool Pro",425.60,"Reliable tool with advanced features",748,sample-images/product-030.jpg
+TEST0638,"Modern Equipment Pro",342.03,"Perfect equipment for everyday tasks",810,sample-images/product-003.jpg
+TEST0639,"Deluxe Equipment Ultra",860.12,"State-of-the-art equipment with modern design",35,sample-images/product-027.jpg
+TEST0640,"Essential Gadget Max",351.65,"State-of-the-art gadget with modern design",609,sample-images/product-032.jpg
+TEST0641,"Pro Gadget Premium",697.68,"Innovative gadget with cutting-edge technology",964,sample-images/product-035.jpg
+TEST0642,"Wireless Cable Elite",658.60,"Cost-effective cable for budget-conscious buyers",204,sample-images/product-191.jpg
+TEST0643,"Heavy-Duty Component Premium",342.38,"Reliable component with advanced features",486,sample-images/product-157.jpg
+TEST0644,"Industrial Equipment XL",320.07,"Cost-effective equipment for budget-conscious buyers",577,sample-images/product-175.jpg
+TEST0645,"Essential Switch 3000",278.98,"Premium switch with excellent performance",465,sample-images/product-114.jpg
+TEST0646,"Compact Apparatus XL",897.51,"Perfect apparatus for everyday tasks",156,sample-images/product-022.jpg
+TEST0647,"Essential Widget Lite",472.14,"Compact widget with powerful capabilities",400,sample-images/product-011.jpg
+TEST0648,"Advanced Hub C",424.29,"Compact hub with powerful capabilities",775,sample-images/product-152.jpg
+TEST0649,"Super Device C",767.03,"Durable device built to last",275,sample-images/product-183.jpg
+TEST0650,"Digital Controller Z",449.95,"Premium controller with excellent performance",252,sample-images/product-021.jpg
+TEST0651,"Modern Controller Max",94.42,"Perfect controller for everyday tasks",351,sample-images/product-181.jpg
+TEST0652,"Super Module X",81.12,"Innovative module with cutting-edge technology",753,sample-images/product-180.jpg
+TEST0653,"Heavy-Duty Switch XL",256.35,"Cost-effective switch for budget-conscious buyers",261,sample-images/product-041.jpg
+TEST0654,"Ultra Instrument HD",43.56,"Perfect instrument for everyday tasks",973,sample-images/product-107.jpg
+TEST0655,"Luxury Instrument Ultra",875.49,"Cost-effective instrument for budget-conscious buyers",503,sample-images/product-106.jpg
+TEST0656,"Smart Terminal 2000",420.72,"Compact terminal with powerful capabilities",901,sample-images/product-136.jpg
+TEST0657,"Essential Hub Mini",585.11,"Cost-effective hub for budget-conscious buyers",17,sample-images/product-015.jpg
+TEST0658,"Deluxe Machine HD",878.84,"Reliable machine with advanced features",468,sample-images/product-174.jpg
+TEST0659,"Compact Component 2000",534.87,"High quality component for professional use",919,sample-images/product-028.jpg
+TEST0660,"Pro Hub A",912.07,"Cost-effective hub for budget-conscious buyers",373,sample-images/product-046.jpg
+TEST0661,"Wireless Sensor Max",339.37,"Compact sensor with powerful capabilities",183,sample-images/product-095.jpg
+TEST0662,"Advanced Terminal Ultra",151.95,"Innovative terminal with cutting-edge technology",136,sample-images/product-015.jpg
+TEST0663,"Eco-Friendly Kit 2000",12.67,"Reliable kit with advanced features",683,sample-images/product-111.jpg
+TEST0664,"Super Instrument X",653.43,"Premium instrument with excellent performance",755,sample-images/product-069.jpg
+TEST0665,"Digital Hub Pro",453.85,"Durable hub built to last",145,sample-images/product-029.jpg
+TEST0666,"Classic Component Mini",73.67,"Perfect component for everyday tasks",200,sample-images/product-041.jpg
+TEST0667,"Advanced Equipment Elite",972.00,"Versatile equipment suitable for multiple applications",927,sample-images/product-163.jpg
+TEST0668,"Basic Equipment Plus",269.04,"Compact equipment with powerful capabilities",147,sample-images/product-001.jpg
+TEST0669,"Essential Terminal Pro",71.04,"Cost-effective terminal for budget-conscious buyers",770,sample-images/product-188.jpg
+TEST0670,"Basic Widget Elite",240.13,"Versatile widget suitable for multiple applications",648,sample-images/product-002.jpg
+TEST0671,"Ultra Kit A",586.63,"Reliable kit with advanced features",361,sample-images/product-053.jpg
+TEST0672,"Basic Widget B",358.21,"High quality widget for professional use",864,sample-images/product-077.jpg
+TEST0673,"Wireless Equipment Mini",166.39,"High quality equipment for professional use",484,sample-images/product-079.jpg
+TEST0674,"Eco-Friendly Cable Premium",187.16,"State-of-the-art cable with modern design",665,sample-images/product-048.jpg
+TEST0675,"Luxury Instrument X",118.05,"State-of-the-art instrument with modern design",325,sample-images/product-158.jpg
+TEST0676,"Premium Connector HD",131.74,"Compact connector with powerful capabilities",116,sample-images/product-072.jpg
+TEST0677,"Pro Monitor Ultra",631.45,"State-of-the-art monitor with modern design",476,sample-images/product-022.jpg
+TEST0678,"Commercial Device C",277.95,"Innovative device with cutting-edge technology",4,sample-images/product-056.jpg
+TEST0679,"Commercial Kit Z",820.32,"High quality kit for professional use",138,sample-images/product-171.jpg
+TEST0680,"Pro Hub HD",799.89,"Innovative hub with cutting-edge technology",461,sample-images/product-052.jpg
+TEST0681,"Ultra Panel Ultra",835.43,"High quality panel for professional use",203,sample-images/product-042.jpg
+TEST0682,"Essential Tool 3000",762.24,"High quality tool for professional use",819,sample-images/product-081.jpg
+TEST0683,"Modern Display B",526.10,"Cost-effective display for budget-conscious buyers",416,sample-images/product-172.jpg
+TEST0684,"Super Gadget Z",229.42,"Reliable gadget with advanced features",151,sample-images/product-046.jpg
+TEST0685,"Industrial Controller Pro",348.37,"Versatile controller suitable for multiple applications",783,sample-images/product-029.jpg
+TEST0686,"Ultra Switch Z",977.86,"Reliable switch with advanced features",504,sample-images/product-178.jpg
+TEST0687,"Wireless Equipment Mini",900.23,"High quality equipment for professional use",339,sample-images/product-052.jpg
+TEST0688,"Digital Instrument X",119.28,"Reliable instrument with advanced features",336,sample-images/product-061.jpg
+TEST0689,"Advanced Connector X",493.72,"Durable connector built to last",764,sample-images/product-103.jpg
+TEST0690,"Smart Equipment Plus",913.01,"Premium equipment with excellent performance",856,sample-images/product-176.jpg
+TEST0691,"Heavy-Duty Switch Lite",98.34,"Innovative switch with cutting-edge technology",381,sample-images/product-175.jpg
+TEST0692,"Advanced Instrument B",207.72,"Perfect instrument for everyday tasks",514,sample-images/product-022.jpg
+TEST0693,"Eco-Friendly Instrument Mini",408.43,"Durable instrument built to last",604,sample-images/product-085.jpg
+TEST0694,"Modern System 2000",579.35,"Innovative system with cutting-edge technology",858,sample-images/product-142.jpg
+TEST0695,"Industrial Switch C",811.48,"Durable switch built to last",347,sample-images/product-055.jpg
+TEST0696,"Commercial Apparatus 2000",10.54,"High quality apparatus for professional use",147,sample-images/product-177.jpg
+TEST0697,"Compact Cable Elite",256.08,"Durable cable built to last",678,sample-images/product-015.jpg
+TEST0698,"Premium Machine XS",60.81,"Innovative machine with cutting-edge technology",182,sample-images/product-066.jpg
+TEST0699,"Modern Gadget B",480.92,"Durable gadget built to last",16,sample-images/product-161.jpg
+TEST0700,"Essential System Plus",552.57,"Compact system with powerful capabilities",76,sample-images/product-048.jpg
+TEST0701,"Deluxe Interface Elite",324.90,"Premium interface with excellent performance",410,sample-images/product-147.jpg
+TEST0702,"Innovative Tool Elite",303.52,"Premium tool with excellent performance",856,sample-images/product-125.jpg
+TEST0703,"Wireless Connector X",28.16,"Durable connector built to last",460,sample-images/product-192.jpg
+TEST0704,"Compact Module Max",306.47,"Perfect module for everyday tasks",300,sample-images/product-094.jpg
+TEST0705,"Deluxe Display Max",333.37,"Innovative display with cutting-edge technology",334,sample-images/product-110.jpg
+TEST0706,"Premium Controller Mini",261.67,"Compact controller with powerful capabilities",528,sample-images/product-122.jpg
+TEST0707,"Classic Cable XL",682.16,"Compact cable with powerful capabilities",532,sample-images/product-142.jpg
+TEST0708,"Modern Unit XL",854.03,"State-of-the-art unit with modern design",531,sample-images/product-160.jpg
+TEST0709,"Portable Component Max",78.30,"Reliable component with advanced features",354,sample-images/product-186.jpg
+TEST0710,"Pro Connector XS",766.15,"Innovative connector with cutting-edge technology",850,sample-images/product-047.jpg
+TEST0711,"Smart Apparatus HD",566.62,"Compact apparatus with powerful capabilities",777,sample-images/product-043.jpg
+TEST0712,"Innovative Machine Max",640.30,"Perfect machine for everyday tasks",744,sample-images/product-121.jpg
+TEST0713,"High-Performance Component A",91.34,"Cost-effective component for budget-conscious buyers",1000,sample-images/product-144.jpg
+TEST0714,"Portable Apparatus A",605.75,"High quality apparatus for professional use",865,sample-images/product-102.jpg
+TEST0715,"Portable Device 2000",544.32,"Compact device with powerful capabilities",54,sample-images/product-093.jpg
+TEST0716,"Professional Terminal Max",271.09,"State-of-the-art terminal with modern design",509,sample-images/product-195.jpg
+TEST0717,"High-Performance Module 2000",809.49,"Durable module built to last",936,sample-images/product-104.jpg
+TEST0718,"Premium Terminal Standard",359.40,"High quality terminal for professional use",528,sample-images/product-031.jpg
+TEST0719,"Modern Kit 3000",757.27,"Cost-effective kit for budget-conscious buyers",613,sample-images/product-098.jpg
+TEST0720,"Luxury Monitor 5000",138.60,"High quality monitor for professional use",778,sample-images/product-082.jpg
+TEST0721,"Portable Device XS",473.98,"High quality device for professional use",604,sample-images/product-160.jpg
+TEST0722,"Basic System XS",106.36,"Cost-effective system for budget-conscious buyers",473,sample-images/product-108.jpg
+TEST0723,"Premium Equipment Plus",759.82,"Cost-effective equipment for budget-conscious buyers",755,sample-images/product-046.jpg
+TEST0724,"Basic Equipment XL",21.46,"Innovative equipment with cutting-edge technology",647,sample-images/product-149.jpg
+TEST0725,"Pro Tool 3000",923.96,"Versatile tool suitable for multiple applications",477,sample-images/product-154.jpg
+TEST0726,"Advanced Equipment Ultra",987.96,"Cost-effective equipment for budget-conscious buyers",709,sample-images/product-097.jpg
+TEST0727,"Compact Tool 5000",569.48,"Cost-effective tool for budget-conscious buyers",732,sample-images/product-116.jpg
+TEST0728,"Premium Instrument 2000",421.40,"Innovative instrument with cutting-edge technology",860,sample-images/product-021.jpg
+TEST0729,"Basic Hub XL",392.96,"Versatile hub suitable for multiple applications",968,sample-images/product-139.jpg
+TEST0730,"Heavy-Duty Switch Max",769.45,"Compact switch with powerful capabilities",878,sample-images/product-014.jpg
+TEST0731,"Heavy-Duty Kit Pro",238.01,"Durable kit built to last",849,sample-images/product-154.jpg
+TEST0732,"Super Module HD",616.22,"State-of-the-art module with modern design",183,sample-images/product-164.jpg
+TEST0733,"Premium Widget 3000",473.87,"High quality widget for professional use",125,sample-images/product-044.jpg
+TEST0734,"Smart Apparatus Elite",278.71,"Cost-effective apparatus for budget-conscious buyers",861,sample-images/product-173.jpg
+TEST0735,"Smart Hub Lite",29.76,"Perfect hub for everyday tasks",677,sample-images/product-054.jpg
+TEST0736,"Wireless Controller Ultra",104.41,"Versatile controller suitable for multiple applications",160,sample-images/product-139.jpg
+TEST0737,"Portable Module Pro",758.45,"Cost-effective module for budget-conscious buyers",237,sample-images/product-162.jpg
+TEST0738,"Premium Device Mini",667.26,"Perfect device for everyday tasks",334,sample-images/product-079.jpg
+TEST0739,"Premium Cable 2000",892.84,"State-of-the-art cable with modern design",312,sample-images/product-121.jpg
+TEST0740,"Premium Display Premium",516.56,"Innovative display with cutting-edge technology",52,sample-images/product-145.jpg
+TEST0741,"Pro Instrument B",72.15,"Compact instrument with powerful capabilities",534,sample-images/product-120.jpg
+TEST0742,"Professional Connector Premium",578.11,"Cost-effective connector for budget-conscious buyers",869,sample-images/product-030.jpg
+TEST0743,"Classic Display Elite",256.93,"Reliable display with advanced features",21,sample-images/product-160.jpg
+TEST0744,"Elite Display 5000",143.48,"Premium display with excellent performance",905,sample-images/product-194.jpg
+TEST0745,"Basic Instrument Lite",401.64,"Perfect instrument for everyday tasks",344,sample-images/product-060.jpg
+TEST0746,"Ultra Component A",463.84,"Versatile component suitable for multiple applications",505,sample-images/product-020.jpg
+TEST0747,"Pro System Premium",392.42,"Cost-effective system for budget-conscious buyers",814,sample-images/product-170.jpg
+TEST0748,"High-Performance Adapter Elite",859.08,"Innovative adapter with cutting-edge technology",186,sample-images/product-046.jpg
+TEST0749,"Wireless Interface Z",582.04,"State-of-the-art interface with modern design",274,sample-images/product-032.jpg
+TEST0750,"Compact Display C",647.45,"Innovative display with cutting-edge technology",339,sample-images/product-172.jpg
+TEST0751,"Commercial Display Premium",927.19,"Perfect display for everyday tasks",439,sample-images/product-034.jpg
+TEST0752,"Advanced Terminal 2000",371.82,"Versatile terminal suitable for multiple applications",716,sample-images/product-035.jpg
+TEST0753,"Super Switch XS",821.15,"High quality switch for professional use",35,sample-images/product-045.jpg
+TEST0754,"Industrial Instrument 5000",350.90,"Premium instrument with excellent performance",918,sample-images/product-117.jpg
+TEST0755,"Compact Hub C",942.73,"Versatile hub suitable for multiple applications",22,sample-images/product-078.jpg
+TEST0756,"Classic Monitor 5000",797.75,"Reliable monitor with advanced features",295,sample-images/product-069.jpg
+TEST0757,"Heavy-Duty Machine 5000",604.22,"High quality machine for professional use",842,sample-images/product-116.jpg
+TEST0758,"Deluxe Equipment C",579.04,"Durable equipment built to last",617,sample-images/product-183.jpg
+TEST0759,"Compact Machine Pro",953.17,"Perfect machine for everyday tasks",590,sample-images/product-038.jpg
+TEST0760,"Ultra Connector HD",448.75,"Reliable connector with advanced features",988,sample-images/product-076.jpg
+TEST0761,"Eco-Friendly Connector 3000",656.57,"Perfect connector for everyday tasks",695,sample-images/product-047.jpg
+TEST0762,"Modern Machine A",480.57,"Cost-effective machine for budget-conscious buyers",385,sample-images/product-178.jpg
+TEST0763,"Heavy-Duty Adapter Premium",968.95,"Compact adapter with powerful capabilities",712,sample-images/product-101.jpg
+TEST0764,"Deluxe Gadget Ultra",852.26,"Cost-effective gadget for budget-conscious buyers",708,sample-images/product-117.jpg
+TEST0765,"Modern Adapter A",858.59,"Cost-effective adapter for budget-conscious buyers",894,sample-images/product-143.jpg
+TEST0766,"Essential Controller Max",971.62,"Compact controller with powerful capabilities",23,sample-images/product-196.jpg
+TEST0767,"Industrial Terminal X",285.14,"Perfect terminal for everyday tasks",832,sample-images/product-134.jpg
+TEST0768,"Classic Interface 3000",936.90,"State-of-the-art interface with modern design",823,sample-images/product-030.jpg
+TEST0769,"Ultra Switch Ultra",472.04,"Versatile switch suitable for multiple applications",969,sample-images/product-143.jpg
+TEST0770,"Portable Switch C",963.07,"Premium switch with excellent performance",854,sample-images/product-044.jpg
+TEST0771,"Compact Component Premium",381.35,"Durable component built to last",643,sample-images/product-047.jpg
+TEST0772,"Premium Tool Elite",100.58,"High quality tool for professional use",647,sample-images/product-149.jpg
+TEST0773,"Wireless Tool Elite",660.29,"High quality tool for professional use",850,sample-images/product-042.jpg
+TEST0774,"Deluxe Monitor Pro",105.68,"Perfect monitor for everyday tasks",632,sample-images/product-164.jpg
+TEST0775,"Super Apparatus 5000",982.76,"Compact apparatus with powerful capabilities",389,sample-images/product-152.jpg
+TEST0776,"Wireless Panel XS",910.92,"Premium panel with excellent performance",524,sample-images/product-197.jpg
+TEST0777,"Classic Device B",603.38,"Perfect device for everyday tasks",170,sample-images/product-059.jpg
+TEST0778,"Pro Monitor Plus",793.07,"Cost-effective monitor for budget-conscious buyers",420,sample-images/product-036.jpg
+TEST0779,"Super Cable 5000",777.30,"State-of-the-art cable with modern design",573,sample-images/product-172.jpg
+TEST0780,"Super Instrument Max",223.20,"Compact instrument with powerful capabilities",283,sample-images/product-050.jpg
+TEST0781,"Deluxe Kit XL",146.99,"High quality kit for professional use",387,sample-images/product-173.jpg
+TEST0782,"Industrial Module Pro",598.12,"Cost-effective module for budget-conscious buyers",810,sample-images/product-136.jpg
+TEST0783,"Wireless Panel Standard",44.80,"Durable panel built to last",569,sample-images/product-080.jpg
+TEST0784,"Modern Device 5000",407.25,"Durable device built to last",355,sample-images/product-113.jpg
+TEST0785,"Portable Apparatus 2000",722.19,"Versatile apparatus suitable for multiple applications",303,sample-images/product-048.jpg
+TEST0786,"Essential Cable XS",713.98,"Reliable cable with advanced features",412,sample-images/product-050.jpg
+TEST0787,"Digital Widget 3000",870.61,"Versatile widget suitable for multiple applications",898,sample-images/product-108.jpg
+TEST0788,"Classic Cable Plus",209.88,"High quality cable for professional use",192,sample-images/product-185.jpg
+TEST0789,"Essential Tool 2000",851.92,"High quality tool for professional use",999,sample-images/product-110.jpg
+TEST0790,"Deluxe Machine 2000",188.83,"Premium machine with excellent performance",842,sample-images/product-185.jpg
+TEST0791,"Deluxe Display 3000",92.62,"Durable display built to last",89,sample-images/product-034.jpg
+TEST0792,"Ultra Kit Standard",810.41,"Durable kit built to last",82,sample-images/product-196.jpg
+TEST0793,"Pro Component B",234.86,"High quality component for professional use",755,sample-images/product-015.jpg
+TEST0794,"Wireless Display A",570.44,"Compact display with powerful capabilities",142,sample-images/product-032.jpg
+TEST0795,"Innovative Adapter Mini",860.55,"Durable adapter built to last",344,sample-images/product-179.jpg
+TEST0796,"Compact Controller Mini",871.09,"Durable controller built to last",550,sample-images/product-122.jpg
+TEST0797,"Classic Module Plus",476.39,"Durable module built to last",766,sample-images/product-007.jpg
+TEST0798,"Luxury Display XL",637.88,"Premium display with excellent performance",833,sample-images/product-072.jpg
+TEST0799,"Deluxe Monitor Elite",225.15,"Innovative monitor with cutting-edge technology",211,sample-images/product-191.jpg
+TEST0800,"Innovative Machine Standard",356.87,"Versatile machine suitable for multiple applications",521,sample-images/product-056.jpg
+TEST0801,"Super Tool XS",632.49,"Innovative tool with cutting-edge technology",895,sample-images/product-120.jpg
+TEST0802,"Heavy-Duty Hub Premium",934.47,"Perfect hub for everyday tasks",201,sample-images/product-198.jpg
+TEST0803,"Digital Equipment Max",259.40,"High quality equipment for professional use",431,sample-images/product-025.jpg
+TEST0804,"Eco-Friendly Kit Z",267.37,"Versatile kit suitable for multiple applications",766,sample-images/product-137.jpg
+TEST0805,"High-Performance Machine X",658.77,"Compact machine with powerful capabilities",457,sample-images/product-200.jpg
+TEST0806,"Digital Interface Elite",363.32,"Compact interface with powerful capabilities",522,sample-images/product-041.jpg
+TEST0807,"Wireless Panel B",994.78,"Compact panel with powerful capabilities",841,sample-images/product-122.jpg
+TEST0808,"Elite Instrument XS",744.88,"Perfect instrument for everyday tasks",897,sample-images/product-019.jpg
+TEST0809,"Wireless Panel Mini",816.20,"Compact panel with powerful capabilities",464,sample-images/product-144.jpg
+TEST0810,"Classic Device B",173.13,"High quality device for professional use",952,sample-images/product-053.jpg
+TEST0811,"Modern Connector X",854.64,"Compact connector with powerful capabilities",42,sample-images/product-100.jpg
+TEST0812,"High-Performance Connector A",404.14,"State-of-the-art connector with modern design",406,sample-images/product-133.jpg
+TEST0813,"Professional Display Standard",922.41,"Compact display with powerful capabilities",847,sample-images/product-126.jpg
+TEST0814,"Heavy-Duty Panel X",378.98,"Innovative panel with cutting-edge technology",707,sample-images/product-139.jpg
+TEST0815,"Heavy-Duty Instrument Max",204.49,"Compact instrument with powerful capabilities",693,sample-images/product-027.jpg
+TEST0816,"Basic Sensor HD",843.04,"Compact sensor with powerful capabilities",1000,sample-images/product-155.jpg
+TEST0817,"Heavy-Duty Sensor Z",85.06,"Innovative sensor with cutting-edge technology",529,sample-images/product-155.jpg
+TEST0818,"Portable Apparatus B",239.46,"State-of-the-art apparatus with modern design",108,sample-images/product-114.jpg
+TEST0819,"Heavy-Duty Tool A",603.44,"Durable tool built to last",402,sample-images/product-036.jpg
+TEST0820,"Professional Display 3000",179.23,"Compact display with powerful capabilities",70,sample-images/product-090.jpg
+TEST0821,"Advanced Display Mini",79.88,"Innovative display with cutting-edge technology",278,sample-images/product-149.jpg
+TEST0822,"Heavy-Duty Terminal XL",303.70,"Reliable terminal with advanced features",657,sample-images/product-137.jpg
+TEST0823,"Premium Module C",908.99,"Innovative module with cutting-edge technology",836,sample-images/product-023.jpg
+TEST0824,"Classic Connector 2000",857.26,"Versatile connector suitable for multiple applications",199,sample-images/product-037.jpg
+TEST0825,"Commercial Switch Elite",603.87,"Innovative switch with cutting-edge technology",420,sample-images/product-121.jpg
+TEST0826,"Professional Kit Ultra",735.78,"Compact kit with powerful capabilities",321,sample-images/product-111.jpg
+TEST0827,"Heavy-Duty Apparatus A",292.11,"High quality apparatus for professional use",356,sample-images/product-062.jpg
+TEST0828,"Digital Widget Plus",310.30,"High quality widget for professional use",697,sample-images/product-149.jpg
+TEST0829,"Innovative Panel Premium",909.89,"Versatile panel suitable for multiple applications",990,sample-images/product-060.jpg
+TEST0830,"Basic Sensor Plus",983.16,"Perfect sensor for everyday tasks",701,sample-images/product-049.jpg
+TEST0831,"Elite Device Pro",983.07,"State-of-the-art device with modern design",424,sample-images/product-011.jpg
+TEST0832,"Premium Terminal Ultra",700.98,"Innovative terminal with cutting-edge technology",46,sample-images/product-072.jpg
+TEST0833,"Portable Controller Ultra",452.94,"Reliable controller with advanced features",328,sample-images/product-110.jpg
+TEST0834,"Basic Apparatus HD",740.86,"Compact apparatus with powerful capabilities",920,sample-images/product-085.jpg
+TEST0835,"Eco-Friendly Instrument Standard",525.46,"Innovative instrument with cutting-edge technology",196,sample-images/product-050.jpg
+TEST0836,"Ultra Cable Plus",230.06,"Cost-effective cable for budget-conscious buyers",574,sample-images/product-082.jpg
+TEST0837,"Professional Gadget Ultra",359.41,"High quality gadget for professional use",546,sample-images/product-145.jpg
+TEST0838,"Modern Hub XS",926.50,"Durable hub built to last",30,sample-images/product-082.jpg
+TEST0839,"Advanced Display C",827.52,"Versatile display suitable for multiple applications",949,sample-images/product-188.jpg
+TEST0840,"Digital Switch 3000",709.07,"Durable switch built to last",75,sample-images/product-016.jpg
+TEST0841,"Smart Adapter Max",159.49,"High quality adapter for professional use",587,sample-images/product-178.jpg
+TEST0842,"Eco-Friendly Component 3000",497.88,"Durable component built to last",188,sample-images/product-174.jpg
+TEST0843,"Elite Instrument Mini",770.05,"Premium instrument with excellent performance",413,sample-images/product-009.jpg
+TEST0844,"Ultra Tool Elite",136.91,"Versatile tool suitable for multiple applications",367,sample-images/product-067.jpg
+TEST0845,"Digital Interface C",874.36,"High quality interface for professional use",166,sample-images/product-166.jpg
+TEST0846,"High-Performance Apparatus Standard",952.64,"Versatile apparatus suitable for multiple applications",733,sample-images/product-115.jpg
+TEST0847,"Portable Gadget Premium",357.29,"High quality gadget for professional use",377,sample-images/product-194.jpg
+TEST0848,"Elite Adapter Premium",356.87,"Reliable adapter with advanced features",287,sample-images/product-031.jpg
+TEST0849,"Ultra Controller HD",40.94,"Durable controller built to last",708,sample-images/product-161.jpg
+TEST0850,"Classic Machine 3000",390.33,"Innovative machine with cutting-edge technology",574,sample-images/product-074.jpg
+TEST0851,"Pro Device HD",980.72,"Durable device built to last",270,sample-images/product-041.jpg
+TEST0852,"Advanced Display XL",655.70,"Premium display with excellent performance",117,sample-images/product-004.jpg
+TEST0853,"Premium Monitor Z",961.71,"Reliable monitor with advanced features",569,sample-images/product-102.jpg
+TEST0854,"Compact Adapter 2000",888.52,"Reliable adapter with advanced features",508,sample-images/product-037.jpg
+TEST0855,"High-Performance Unit Mini",950.15,"Innovative unit with cutting-edge technology",736,sample-images/product-064.jpg
+TEST0856,"Pro Unit Ultra",674.15,"Perfect unit for everyday tasks",729,sample-images/product-166.jpg
+TEST0857,"Compact Terminal X",303.47,"Versatile terminal suitable for multiple applications",764,sample-images/product-185.jpg
+TEST0858,"Advanced Hub Ultra",57.70,"Versatile hub suitable for multiple applications",419,sample-images/product-167.jpg
+TEST0859,"Industrial Cable C",357.96,"High quality cable for professional use",452,sample-images/product-200.jpg
+TEST0860,"Elite System Z",280.67,"Compact system with powerful capabilities",190,sample-images/product-075.jpg
+TEST0861,"Essential Sensor Plus",71.65,"Versatile sensor suitable for multiple applications",252,sample-images/product-063.jpg
+TEST0862,"Innovative Switch B",674.49,"High quality switch for professional use",43,sample-images/product-107.jpg
+TEST0863,"Smart Switch Ultra",397.57,"High quality switch for professional use",560,sample-images/product-107.jpg
+TEST0864,"Luxury Monitor 3000",78.70,"Premium monitor with excellent performance",331,sample-images/product-028.jpg
+TEST0865,"Eco-Friendly Switch B",662.12,"High quality switch for professional use",292,sample-images/product-150.jpg
+TEST0866,"Premium Kit Plus",311.97,"Durable kit built to last",346,sample-images/product-061.jpg
+TEST0867,"Digital Component Standard",326.71,"High quality component for professional use",229,sample-images/product-016.jpg
+TEST0868,"Elite Gadget Mini",199.23,"Compact gadget with powerful capabilities",134,sample-images/product-026.jpg
+TEST0869,"Industrial Panel HD",831.72,"Premium panel with excellent performance",792,sample-images/product-113.jpg
+TEST0870,"Heavy-Duty Connector Max",834.53,"State-of-the-art connector with modern design",432,sample-images/product-010.jpg
+TEST0871,"Digital Apparatus XS",166.56,"Versatile apparatus suitable for multiple applications",39,sample-images/product-179.jpg
+TEST0872,"Heavy-Duty Instrument Max",20.44,"Versatile instrument suitable for multiple applications",240,sample-images/product-124.jpg
+TEST0873,"Premium Module Premium",54.37,"State-of-the-art module with modern design",990,sample-images/product-088.jpg
+TEST0874,"Classic Tool Plus",656.00,"Compact tool with powerful capabilities",87,sample-images/product-191.jpg
+TEST0875,"Basic Monitor Ultra",524.03,"State-of-the-art monitor with modern design",201,sample-images/product-159.jpg
+TEST0876,"Industrial Display XS",199.33,"Cost-effective display for budget-conscious buyers",811,sample-images/product-084.jpg
+TEST0877,"Elite Interface Plus",553.98,"Innovative interface with cutting-edge technology",232,sample-images/product-108.jpg
+TEST0878,"Advanced Widget Max",87.85,"Cost-effective widget for budget-conscious buyers",41,sample-images/product-196.jpg
+TEST0879,"Modern Connector C",400.48,"Reliable connector with advanced features",324,sample-images/product-150.jpg
+TEST0880,"Innovative Apparatus Elite",15.27,"Perfect apparatus for everyday tasks",199,sample-images/product-016.jpg
+TEST0881,"Super Switch A",514.33,"High quality switch for professional use",856,sample-images/product-028.jpg
+TEST0882,"Modern Panel XS",407.37,"State-of-the-art panel with modern design",365,sample-images/product-184.jpg
+TEST0883,"Ultra Interface Pro",547.79,"Reliable interface with advanced features",474,sample-images/product-074.jpg
+TEST0884,"Modern Connector XL",861.37,"Durable connector built to last",911,sample-images/product-123.jpg
+TEST0885,"Premium Apparatus Standard",877.20,"Cost-effective apparatus for budget-conscious buyers",291,sample-images/product-079.jpg
+TEST0886,"Innovative Instrument Standard",184.21,"High quality instrument for professional use",246,sample-images/product-142.jpg
+TEST0887,"Smart Sensor X",167.48,"Innovative sensor with cutting-edge technology",244,sample-images/product-100.jpg
+TEST0888,"Compact Adapter Lite",902.55,"Reliable adapter with advanced features",810,sample-images/product-135.jpg
+TEST0889,"Deluxe Connector A",511.12,"Premium connector with excellent performance",833,sample-images/product-019.jpg
+TEST0890,"Pro Kit Standard",25.82,"Compact kit with powerful capabilities",341,sample-images/product-043.jpg
+TEST0891,"Elite Cable Z",523.29,"Innovative cable with cutting-edge technology",647,sample-images/product-080.jpg
+TEST0892,"Modern Gadget A",201.07,"Innovative gadget with cutting-edge technology",326,sample-images/product-151.jpg
+TEST0893,"Portable System C",102.37,"Versatile system suitable for multiple applications",84,sample-images/product-178.jpg
+TEST0894,"Industrial Tool XS",588.06,"Cost-effective tool for budget-conscious buyers",387,sample-images/product-074.jpg
+TEST0895,"Digital Connector Plus",59.95,"Reliable connector with advanced features",849,sample-images/product-006.jpg
+TEST0896,"Classic Connector C",647.06,"Perfect connector for everyday tasks",874,sample-images/product-130.jpg
+TEST0897,"Industrial Controller Lite",22.01,"Reliable controller with advanced features",452,sample-images/product-040.jpg
+TEST0898,"High-Performance Device A",270.29,"Perfect device for everyday tasks",992,sample-images/product-146.jpg
+TEST0899,"Classic Adapter Plus",949.47,"Perfect adapter for everyday tasks",795,sample-images/product-103.jpg
+TEST0900,"Compact Switch Plus",907.51,"Versatile switch suitable for multiple applications",808,sample-images/product-099.jpg
+TEST0901,"Elite Connector 3000",808.55,"Durable connector built to last",974,sample-images/product-172.jpg
+TEST0902,"Professional Connector HD",381.93,"Durable connector built to last",113,sample-images/product-174.jpg
+TEST0903,"Deluxe Adapter C",941.18,"Versatile adapter suitable for multiple applications",696,sample-images/product-003.jpg
+TEST0904,"Heavy-Duty Machine X",532.94,"Cost-effective machine for budget-conscious buyers",212,sample-images/product-104.jpg
+TEST0905,"Professional Controller X",333.80,"Durable controller built to last",258,sample-images/product-149.jpg
+TEST0906,"Ultra Panel B",725.90,"Premium panel with excellent performance",211,sample-images/product-149.jpg
+TEST0907,"Premium Device B",879.45,"Innovative device with cutting-edge technology",448,sample-images/product-088.jpg
+TEST0908,"Pro Kit 5000",774.34,"Compact kit with powerful capabilities",119,sample-images/product-001.jpg
+TEST0909,"Super Machine Max",810.93,"Durable machine built to last",701,sample-images/product-050.jpg
+TEST0910,"Innovative Display Max",524.22,"Premium display with excellent performance",862,sample-images/product-107.jpg
+TEST0911,"Essential Widget Premium",922.65,"Versatile widget suitable for multiple applications",687,sample-images/product-062.jpg
+TEST0912,"Deluxe Kit XL",935.10,"Innovative kit with cutting-edge technology",522,sample-images/product-020.jpg
+TEST0913,"Premium Hub Premium",327.32,"Compact hub with powerful capabilities",659,sample-images/product-104.jpg
+TEST0914,"Wireless Module Elite",948.66,"Cost-effective module for budget-conscious buyers",898,sample-images/product-119.jpg
+TEST0915,"Premium Component Premium",935.43,"Reliable component with advanced features",812,sample-images/product-090.jpg
+TEST0916,"Premium Connector Mini",574.52,"Premium connector with excellent performance",336,sample-images/product-121.jpg
+TEST0917,"Ultra Apparatus HD",468.60,"High quality apparatus for professional use",515,sample-images/product-119.jpg
+TEST0918,"Smart Interface Mini",547.98,"State-of-the-art interface with modern design",684,sample-images/product-148.jpg
+TEST0919,"Professional Adapter A",241.57,"Cost-effective adapter for budget-conscious buyers",686,sample-images/product-189.jpg
+TEST0920,"Modern Sensor X",358.32,"Innovative sensor with cutting-edge technology",89,sample-images/product-149.jpg
+TEST0921,"Portable Device Lite",173.11,"Durable device built to last",1000,sample-images/product-198.jpg
+TEST0922,"Essential Module Z",673.33,"High quality module for professional use",823,sample-images/product-153.jpg
+TEST0923,"Classic Connector 5000",358.81,"High quality connector for professional use",847,sample-images/product-123.jpg
+TEST0924,"Super Component Max",154.68,"Compact component with powerful capabilities",190,sample-images/product-154.jpg
+TEST0925,"Deluxe Widget C",497.63,"Versatile widget suitable for multiple applications",574,sample-images/product-131.jpg
+TEST0926,"Ultra Apparatus C",203.12,"Reliable apparatus with advanced features",839,sample-images/product-126.jpg
+TEST0927,"Digital Machine Elite",806.95,"Premium machine with excellent performance",882,sample-images/product-198.jpg
+TEST0928,"Elite Widget Mini",602.94,"Cost-effective widget for budget-conscious buyers",809,sample-images/product-038.jpg
+TEST0929,"Digital Panel Premium",748.58,"Compact panel with powerful capabilities",339,sample-images/product-166.jpg
+TEST0930,"Elite Terminal XL",10.05,"Compact terminal with powerful capabilities",681,sample-images/product-172.jpg
+TEST0931,"Deluxe Apparatus Plus",493.77,"Reliable apparatus with advanced features",210,sample-images/product-070.jpg
+TEST0932,"Modern Kit Elite",93.57,"Durable kit built to last",473,sample-images/product-154.jpg
+TEST0933,"Commercial Apparatus XS",164.98,"Compact apparatus with powerful capabilities",922,sample-images/product-150.jpg
+TEST0934,"Modern Kit A",820.31,"State-of-the-art kit with modern design",392,sample-images/product-083.jpg
+TEST0935,"Industrial Display HD",74.31,"High quality display for professional use",733,sample-images/product-083.jpg
+TEST0936,"Innovative Panel XL",983.00,"Innovative panel with cutting-edge technology",881,sample-images/product-144.jpg
+TEST0937,"Digital Cable Standard",307.70,"Compact cable with powerful capabilities",988,sample-images/product-003.jpg
+TEST0938,"Industrial Controller 2000",199.87,"Innovative controller with cutting-edge technology",256,sample-images/product-070.jpg
+TEST0939,"Digital Switch X",723.47,"Cost-effective switch for budget-conscious buyers",987,sample-images/product-084.jpg
+TEST0940,"Innovative Apparatus B",973.89,"High quality apparatus for professional use",682,sample-images/product-160.jpg
+TEST0941,"Essential Connector Mini",670.78,"Compact connector with powerful capabilities",805,sample-images/product-045.jpg
+TEST0942,"Super Component Plus",716.00,"State-of-the-art component with modern design",326,sample-images/product-132.jpg
+TEST0943,"Classic Device A",227.00,"Premium device with excellent performance",941,sample-images/product-169.jpg
+TEST0944,"Luxury Gadget A",487.00,"Premium gadget with excellent performance",21,sample-images/product-085.jpg
+TEST0945,"Ultra Controller Ultra",104.70,"Cost-effective controller for budget-conscious buyers",607,sample-images/product-168.jpg
+TEST0946,"Smart Controller 5000",192.11,"Perfect controller for everyday tasks",174,sample-images/product-079.jpg
+TEST0947,"Smart Apparatus B",592.10,"High quality apparatus for professional use",431,sample-images/product-082.jpg
+TEST0948,"Industrial Instrument 3000",770.78,"High quality instrument for professional use",928,sample-images/product-104.jpg
+TEST0949,"Essential System Ultra",918.59,"Perfect system for everyday tasks",834,sample-images/product-142.jpg
+TEST0950,"Luxury Monitor Standard",472.68,"Cost-effective monitor for budget-conscious buyers",740,sample-images/product-113.jpg
+TEST0951,"Wireless Unit Mini",247.59,"Perfect unit for everyday tasks",798,sample-images/product-122.jpg
+TEST0952,"Basic Connector 3000",788.12,"Durable connector built to last",724,sample-images/product-117.jpg
+TEST0953,"Ultra Interface 3000",558.91,"State-of-the-art interface with modern design",300,sample-images/product-151.jpg
+TEST0954,"Basic Monitor Lite",927.37,"Innovative monitor with cutting-edge technology",539,sample-images/product-171.jpg
+TEST0955,"Basic Apparatus Ultra",81.95,"State-of-the-art apparatus with modern design",1000,sample-images/product-186.jpg
+TEST0956,"Super Machine 2000",78.47,"Reliable machine with advanced features",303,sample-images/product-167.jpg
+TEST0957,"Digital Adapter B",922.31,"Premium adapter with excellent performance",477,sample-images/product-102.jpg
+TEST0958,"Modern Display Ultra",138.23,"Versatile display suitable for multiple applications",930,sample-images/product-078.jpg
+TEST0959,"High-Performance Apparatus A",291.07,"Perfect apparatus for everyday tasks",44,sample-images/product-014.jpg
+TEST0960,"Super Device XS",500.16,"Cost-effective device for budget-conscious buyers",842,sample-images/product-045.jpg
+TEST0961,"Modern Kit HD",804.76,"Durable kit built to last",781,sample-images/product-024.jpg
+TEST0962,"Pro Component Z",861.93,"Perfect component for everyday tasks",616,sample-images/product-150.jpg
+TEST0963,"Heavy-Duty Module Premium",11.40,"Versatile module suitable for multiple applications",710,sample-images/product-164.jpg
+TEST0964,"Advanced Monitor Max",542.36,"Premium monitor with excellent performance",732,sample-images/product-061.jpg
+TEST0965,"Heavy-Duty Cable Mini",931.54,"Versatile cable suitable for multiple applications",941,sample-images/product-148.jpg
+TEST0966,"Heavy-Duty Apparatus C",171.49,"Premium apparatus with excellent performance",837,sample-images/product-137.jpg
+TEST0967,"Premium Panel 3000",125.49,"Perfect panel for everyday tasks",663,sample-images/product-087.jpg
+TEST0968,"Luxury Component Standard",717.62,"State-of-the-art component with modern design",142,sample-images/product-073.jpg
+TEST0969,"Compact Widget 5000",244.09,"Compact widget with powerful capabilities",400,sample-images/product-058.jpg
+TEST0970,"Commercial Display Lite",157.60,"Durable display built to last",428,sample-images/product-122.jpg
+TEST0971,"Deluxe Controller XS",490.34,"Cost-effective controller for budget-conscious buyers",204,sample-images/product-009.jpg
+TEST0972,"Eco-Friendly Tool Lite",247.52,"State-of-the-art tool with modern design",30,sample-images/product-134.jpg
+TEST0973,"Super Hub B",396.42,"Reliable hub with advanced features",735,sample-images/product-199.jpg
+TEST0974,"Pro Widget Elite",267.03,"Compact widget with powerful capabilities",848,sample-images/product-159.jpg
+TEST0975,"Premium Component Premium",142.82,"Durable component built to last",752,sample-images/product-095.jpg
+TEST0976,"Elite System 5000",211.27,"Perfect system for everyday tasks",533,sample-images/product-078.jpg
+TEST0977,"Heavy-Duty Unit Max",388.85,"High quality unit for professional use",103,sample-images/product-041.jpg
+TEST0978,"Wireless System XL",733.50,"Compact system with powerful capabilities",250,sample-images/product-035.jpg
+TEST0979,"Luxury Controller XL",380.38,"Versatile controller suitable for multiple applications",503,sample-images/product-033.jpg
+TEST0980,"Ultra Adapter 5000",903.37,"Perfect adapter for everyday tasks",382,sample-images/product-199.jpg
+TEST0981,"Eco-Friendly Unit A",344.14,"Cost-effective unit for budget-conscious buyers",736,sample-images/product-170.jpg
+TEST0982,"Modern Switch Z",53.73,"State-of-the-art switch with modern design",728,sample-images/product-173.jpg
+TEST0983,"Pro Interface Elite",428.69,"Cost-effective interface for budget-conscious buyers",431,sample-images/product-144.jpg
+TEST0984,"Basic Kit Standard",582.22,"Premium kit with excellent performance",441,sample-images/product-103.jpg
+TEST0985,"Smart System 2000",411.69,"Cost-effective system for budget-conscious buyers",767,sample-images/product-049.jpg
+TEST0986,"Advanced Machine B",487.53,"Durable machine built to last",145,sample-images/product-056.jpg
+TEST0987,"Luxury Device B",906.89,"Perfect device for everyday tasks",366,sample-images/product-172.jpg
+TEST0988,"Advanced Sensor X",623.82,"Innovative sensor with cutting-edge technology",0,sample-images/product-167.jpg
+TEST0989,"Deluxe System Standard",113.97,"Innovative system with cutting-edge technology",270,sample-images/product-073.jpg
+TEST0990,"Advanced Panel XL",900.27,"Premium panel with excellent performance",465,sample-images/product-105.jpg
+TEST0991,"Innovative Panel HD",938.45,"High quality panel for professional use",55,sample-images/product-090.jpg
+TEST0992,"Elite Controller Mini",284.13,"Durable controller built to last",944,sample-images/product-114.jpg
+TEST0993,"Elite Display Pro",582.17,"Innovative display with cutting-edge technology",133,sample-images/product-007.jpg
+TEST0994,"Eco-Friendly Widget Z",617.49,"Reliable widget with advanced features",832,sample-images/product-113.jpg
+TEST0995,"High-Performance Connector A",539.15,"Innovative connector with cutting-edge technology",868,sample-images/product-002.jpg
+TEST0996,"Compact Panel Z",998.27,"High quality panel for professional use",934,sample-images/product-097.jpg
+TEST0997,"Premium Gadget Max",75.64,"High quality gadget for professional use",26,sample-images/product-183.jpg
+TEST0998,"Digital Apparatus Elite",874.06,"Cost-effective apparatus for budget-conscious buyers",983,sample-images/product-103.jpg
+TEST0999,"Portable Tool A",697.29,"Cost-effective tool for budget-conscious buyers",606,sample-images/product-164.jpg
+TEST1000,"High-Performance Component Max",915.60,"Perfect component for everyday tasks",840,sample-images/product-034.jpg

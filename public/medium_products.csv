@@ -1,0 +1,101 @@
+sku,name,price,description,stock,image_path
+MED0001,"Ultra Component Ultra",621.33,"High quality component for professional use",818,sample-images/product-161.jpg
+MED0002,"Premium Tool Z",306.83,"State-of-the-art tool with modern design",720,sample-images/product-196.jpg
+MED0003,"Ultra Gadget C",89.13,"High quality gadget for professional use",846,sample-images/product-059.jpg
+MED0004,"Premium Module X",742.52,"Perfect module for everyday tasks",768,sample-images/product-180.jpg
+MED0005,"Premium Kit Mini",841.53,"Reliable kit with advanced features",615,sample-images/product-137.jpg
+MED0006,"Professional Component Plus",231.15,"Perfect component for everyday tasks",504,sample-images/product-123.jpg
+MED0007,"Advanced System A",486.79,"Perfect system for everyday tasks",258,sample-images/product-182.jpg
+MED0008,"Advanced Unit Max",528.44,"State-of-the-art unit with modern design",722,sample-images/product-192.jpg
+MED0009,"Advanced Tool A",671.08,"Reliable tool with advanced features",326,sample-images/product-187.jpg
+MED0010,"Deluxe Kit Ultra",628.46,"Perfect kit for everyday tasks",993,sample-images/product-168.jpg
+MED0011,"Basic System X",908.97,"Reliable system with advanced features",703,sample-images/product-061.jpg
+MED0012,"Pro Widget A",518.19,"Reliable widget with advanced features",838,sample-images/product-146.jpg
+MED0013,"Professional Gadget Plus",831.25,"Perfect gadget for everyday tasks",185,sample-images/product-124.jpg
+MED0014,"Essential Apparatus X",902.83,"Perfect apparatus for everyday tasks",645,sample-images/product-118.jpg
+MED0015,"Professional Tool B",405.59,"High quality tool for professional use",165,sample-images/product-116.jpg
+MED0016,"Advanced Apparatus Ultra",268.99,"High quality apparatus for professional use",498,sample-images/product-098.jpg
+MED0017,"Essential Module A",823.16,"Reliable module with advanced features",543,sample-images/product-192.jpg
+MED0018,"Smart Module A",874.29,"Perfect module for everyday tasks",461,sample-images/product-031.jpg
+MED0019,"Premium System Z",841.21,"State-of-the-art system with modern design",727,sample-images/product-041.jpg
+MED0020,"Pro Tool B",318.36,"Reliable tool with advanced features",733,sample-images/product-157.jpg
+MED0021,"Pro Device Pro",366.36,"Reliable device with advanced features",36,sample-images/product-026.jpg
+MED0022,"Super Widget B",111.50,"State-of-the-art widget with modern design",469,sample-images/product-177.jpg
+MED0023,"Smart Tool Mini",128.43,"State-of-the-art tool with modern design",31,sample-images/product-056.jpg
+MED0024,"Smart Module Pro",503.53,"Reliable module with advanced features",258,sample-images/product-147.jpg
+MED0025,"Basic Unit Plus",416.97,"Perfect unit for everyday tasks",349,sample-images/product-099.jpg
+MED0026,"Super Component Mini",729.25,"Reliable component with advanced features",241,sample-images/product-026.jpg
+MED0027,"Pro Apparatus A",769.48,"High quality apparatus for professional use",521,sample-images/product-195.jpg
+MED0028,"Basic Tool Ultra",731.57,"Perfect tool for everyday tasks",941,sample-images/product-009.jpg
+MED0029,"Professional Component Mini",922.76,"State-of-the-art component with modern design",324,sample-images/product-174.jpg
+MED0030,"Pro Component A",731.53,"High quality component for professional use",750,sample-images/product-195.jpg
+MED0031,"Basic Apparatus X",45.05,"Perfect apparatus for everyday tasks",536,sample-images/product-154.jpg
+MED0032,"Pro Device Ultra",518.14,"High quality device for professional use",616,sample-images/product-160.jpg
+MED0033,"Premium Component Mini",879.77,"Perfect component for everyday tasks",675,sample-images/product-187.jpg
+MED0034,"Smart Tool Z",406.79,"State-of-the-art tool with modern design",901,sample-images/product-116.jpg
+MED0035,"Essential Apparatus Plus",895.64,"State-of-the-art apparatus with modern design",734,sample-images/product-124.jpg
+MED0036,"Ultra Module Pro",35.31,"Perfect module for everyday tasks",651,sample-images/product-040.jpg
+MED0037,"Professional Unit Pro",611.39,"Reliable unit with advanced features",324,sample-images/product-025.jpg
+MED0038,"Pro Component Max",692.86,"High quality component for professional use",391,sample-images/product-114.jpg
+MED0039,"Professional Gadget Pro",283.82,"State-of-the-art gadget with modern design",731,sample-images/product-170.jpg
+MED0040,"Premium Module Plus",564.42,"Reliable module with advanced features",300,sample-images/product-177.jpg
+MED0041,"Premium Module Ultra",658.51,"Perfect module for everyday tasks",97,sample-images/product-063.jpg
+MED0042,"Advanced Component A",182.67,"Reliable component with advanced features",535,sample-images/product-109.jpg
+MED0043,"Pro Component Ultra",485.52,"High quality component for professional use",631,sample-images/product-102.jpg
+MED0044,"Pro Module Pro",586.25,"High quality module for professional use",47,sample-images/product-181.jpg
+MED0045,"Deluxe System Plus",327.69,"High quality system for professional use",531,sample-images/product-137.jpg
+MED0046,"Ultra Unit A",218.80,"Perfect unit for everyday tasks",604,sample-images/product-082.jpg
+MED0047,"Super Kit B",218.75,"State-of-the-art kit with modern design",652,sample-images/product-151.jpg
+MED0048,"Basic Device A",617.85,"Reliable device with advanced features",10,sample-images/product-075.jpg
+MED0049,"Professional Module Plus",770.83,"High quality module for professional use",485,sample-images/product-168.jpg
+MED0050,"Ultra Gadget Max",469.16,"High quality gadget for professional use",797,sample-images/product-004.jpg
+MED0051,"Ultra Device A",198.61,"High quality device for professional use",990,sample-images/product-003.jpg
+MED0052,"Advanced Kit Z",869.79,"Perfect kit for everyday tasks",133,sample-images/product-016.jpg
+MED0053,"Premium Gadget X",913.64,"Perfect gadget for everyday tasks",514,sample-images/product-070.jpg
+MED0054,"Professional Component Max",319.17,"Perfect component for everyday tasks",66,sample-images/product-149.jpg
+MED0055,"Professional Kit Z",197.90,"State-of-the-art kit with modern design",911,sample-images/product-031.jpg
+MED0056,"Basic System Pro",252.60,"Perfect system for everyday tasks",423,sample-images/product-027.jpg
+MED0057,"Pro Tool A",250.34,"State-of-the-art tool with modern design",491,sample-images/product-183.jpg
+MED0058,"Smart Unit Plus",284.88,"Reliable unit with advanced features",641,sample-images/product-137.jpg
+MED0059,"Pro Apparatus A",813.35,"Reliable apparatus with advanced features",147,sample-images/product-186.jpg
+MED0060,"Essential Kit C",352.05,"State-of-the-art kit with modern design",80,sample-images/product-053.jpg
+MED0061,"Advanced Kit A",530.52,"State-of-the-art kit with modern design",767,sample-images/product-123.jpg
+MED0062,"Deluxe Gadget C",516.64,"Perfect gadget for everyday tasks",431,sample-images/product-134.jpg
+MED0063,"Smart Apparatus A",639.78,"State-of-the-art apparatus with modern design",557,sample-images/product-021.jpg
+MED0064,"Professional Gadget Z",979.32,"Reliable gadget with advanced features",544,sample-images/product-118.jpg
+MED0065,"Ultra Gadget X",853.59,"Perfect gadget for everyday tasks",287,sample-images/product-008.jpg
+MED0066,"Premium Unit X",489.75,"High quality unit for professional use",320,sample-images/product-131.jpg
+MED0067,"Pro System A",952.61,"High quality system for professional use",280,sample-images/product-017.jpg
+MED0068,"Premium Module Mini",406.68,"Perfect module for everyday tasks",349,sample-images/product-123.jpg
+MED0069,"Smart Gadget Plus",50.86,"State-of-the-art gadget with modern design",887,sample-images/product-141.jpg
+MED0070,"Professional Unit Z",595.95,"Perfect unit for everyday tasks",757,sample-images/product-069.jpg
+MED0071,"Advanced System Max",114.07,"State-of-the-art system with modern design",829,sample-images/product-039.jpg
+MED0072,"Ultra System Max",693.29,"Reliable system with advanced features",995,sample-images/product-086.jpg
+MED0073,"Basic Widget C",535.60,"Perfect widget for everyday tasks",808,sample-images/product-052.jpg
+MED0074,"Essential Widget C",541.09,"Reliable widget with advanced features",275,sample-images/product-085.jpg
+MED0075,"Deluxe Tool B",935.21,"High quality tool for professional use",164,sample-images/product-149.jpg
+MED0076,"Basic Widget A",312.01,"Reliable widget with advanced features",413,sample-images/product-014.jpg
+MED0077,"Ultra Kit B",963.33,"High quality kit for professional use",340,sample-images/product-006.jpg
+MED0078,"Deluxe Gadget Z",311.23,"State-of-the-art gadget with modern design",410,sample-images/product-002.jpg
+MED0079,"Advanced System Ultra",130.00,"State-of-the-art system with modern design",561,sample-images/product-076.jpg
+MED0080,"Smart Kit Pro",11.95,"Reliable kit with advanced features",837,sample-images/product-184.jpg
+MED0081,"Professional Kit A",660.97,"High quality kit for professional use",483,sample-images/product-141.jpg
+MED0082,"Super Gadget B",952.64,"Perfect gadget for everyday tasks",558,sample-images/product-164.jpg
+MED0083,"Basic Component Ultra",979.61,"State-of-the-art component with modern design",807,sample-images/product-102.jpg
+MED0084,"Professional System Max",184.75,"State-of-the-art system with modern design",22,sample-images/product-066.jpg
+MED0085,"Smart Kit Ultra",206.44,"State-of-the-art kit with modern design",379,sample-images/product-022.jpg
+MED0086,"Basic Tool Pro",903.86,"High quality tool for professional use",800,sample-images/product-123.jpg
+MED0087,"Professional Gadget A",581.04,"High quality gadget for professional use",157,sample-images/product-141.jpg
+MED0088,"Pro Component Z",211.02,"State-of-the-art component with modern design",808,sample-images/product-011.jpg
+MED0089,"Premium Kit Mini",527.03,"Perfect kit for everyday tasks",888,sample-images/product-064.jpg
+MED0090,"Super Component A",783.48,"Perfect component for everyday tasks",22,sample-images/product-154.jpg
+MED0091,"Professional Component Max",904.96,"State-of-the-art component with modern design",845,sample-images/product-182.jpg
+MED0092,"Deluxe Unit Max",228.38,"State-of-the-art unit with modern design",56,sample-images/product-105.jpg
+MED0093,"Super System Mini",493.58,"Perfect system for everyday tasks",159,sample-images/product-166.jpg
+MED0094,"Deluxe Component X",500.15,"Perfect component for everyday tasks",732,sample-images/product-122.jpg
+MED0095,"Deluxe Module Mini",425.91,"High quality module for professional use",605,sample-images/product-121.jpg
+MED0096,"Professional Apparatus B",835.33,"Reliable apparatus with advanced features",29,sample-images/product-126.jpg
+MED0097,"Smart System X",800.49,"High quality system for professional use",788,sample-images/product-121.jpg
+MED0098,"Professional Kit X",903.10,"State-of-the-art kit with modern design",304,sample-images/product-105.jpg
+MED0099,"Super Component C",393.35,"Reliable component with advanced features",477,sample-images/product-095.jpg
+MED0100,"Ultra Gadget Pro",570.76,"State-of-the-art gadget with modern design",201,sample-images/product-040.jpg

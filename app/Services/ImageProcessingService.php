@@ -40,11 +40,23 @@ class ImageProcessingService
         // Get the uploaded file path
         $sourcePath = $upload->metadata['final_path'] ?? null;
         
-        if (!$sourcePath || !Storage::exists($sourcePath)) {
+        if (!$sourcePath) {
+            throw new \RuntimeException("Final path not found in upload metadata for: {$upload->uuid}");
+        }
+        
+        // Use absolute path to avoid Laravel Storage facade path issues
+        $sourceFullPath = storage_path('app/' . $sourcePath);
+        
+        if (!file_exists($sourceFullPath)) {
+            Log::error("Source file not found", [
+                'uuid' => $upload->uuid,
+                'source_path' => $sourcePath,
+                'full_path' => $sourceFullPath,
+                'file_exists' => file_exists($sourceFullPath),
+            ]);
             throw new \RuntimeException("Source file not found for upload: {$upload->uuid}");
         }
 
-        $sourceFullPath = storage_path('app/' . $sourcePath);
         $createdImages = [];
 
         try {
@@ -133,8 +145,9 @@ class ImageProcessingService
 
             // Clean up any created variant files
             foreach ($createdImages as $imageRecord) {
-                if (Storage::exists($imageRecord->path)) {
-                    Storage::delete($imageRecord->path);
+                $variantFullPath = storage_path('app/' . $imageRecord->path);
+                if (file_exists($variantFullPath)) {
+                    unlink($variantFullPath);
                 }
                 $imageRecord->delete();
             }

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Services\ProductImportService;
+use App\Services\ChunkedUploadService;
 use App\Services\ImageProcessingService;
 use App\Models\Product;
 use App\Models\Upload;
@@ -15,6 +16,7 @@ class ProductImportController extends Controller
 {
     public function __construct(
         private ProductImportService $importService,
+        private ChunkedUploadService $chunkedUploadService,
         private ImageProcessingService $imageService
     ) {}
 
@@ -37,14 +39,71 @@ class ProductImportController extends Controller
         }
 
         try {
+            // Increase execution time and memory for large imports with image processing
+            // Note: For production, consider using queue jobs for async processing
+            set_time_limit(900); // 15 minutes
+            ini_set('max_execution_time', '900');
+            ini_set('memory_limit', '1G'); // Increase memory for image processing
+            
             $file = $request->file('csv_file');
-            $tempPath = $file->storeAs('temp', 'import_' . time() . '.csv');
-            $fullPath = storage_path('app/' . $tempPath);
+            
+            if (!$file || !$file->isValid()) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Invalid file upload',
+                ], 422);
+            }
+            
+            // Ensure temp directory exists with correct permissions
+            $tempDir = storage_path('app/private/temp');
+            if (!is_dir($tempDir)) {
+                mkdir($tempDir, 0775, true);
+                chmod($tempDir, 0775);
+            }
+            
+            // Use a unique filename
+            $filename = 'import_' . time() . '_' . uniqid() . '.csv';
+            
+            // Try to store the file (will go to storage/app/private/temp because of 'local' disk config)
+            $tempPath = $file->storeAs('temp', $filename);
+            
+            if (!$tempPath) {
+                Log::error('Failed to store uploaded file', [
+                    'original_name' => $file->getClientOriginalName(),
+                    'temp_dir' => $tempDir,
+                    'temp_dir_writable' => is_writable($tempDir),
+                ]);
+                
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Failed to save uploaded file',
+                ], 500);
+            }
+            
+            $fullPath = storage_path('app/private/' . $tempPath);
+            
+            // Verify the file was actually created
+            if (!file_exists($fullPath)) {
+                Log::error('File not found after storeAs', [
+                    'tempPath' => $tempPath,
+                    'fullPath' => $fullPath,
+                ]);
+                
+                return response()->json([
+                    'success' => false,
+                    'message' => 'File upload failed - file not found',
+                ], 500);
+            }
+            
+            // Make sure the file is readable
+            chmod($fullPath, 0664);
 
             $stats = $this->importService->importFromCsv($fullPath);
 
             // Clean up temporary file
-            unlink($fullPath);
+            if (file_exists($fullPath)) {
+                unlink($fullPath);
+            }
 
             return response()->json([
                 'success' => true,

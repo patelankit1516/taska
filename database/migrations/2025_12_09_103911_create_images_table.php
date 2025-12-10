@@ -21,6 +21,7 @@ return new class extends Migration
             $table->unsignedInteger('width')->nullable();
             $table->unsignedInteger('height')->nullable();
             $table->unsignedBigInteger('size');
+            $table->unsignedInteger('sort_order')->default(0);
             $table->timestamps();
             
             $table->index(['imageable_type', 'imageable_id']);
