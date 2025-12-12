@@ -27,6 +27,7 @@ Thumbs.db
 *.md
 !README.md
 !APPROACH.md
+!UNIT_TEST_EVIDENCE.md
 generate-*.php
 sample_products.csv
 start-server.sh
