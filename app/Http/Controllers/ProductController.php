@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Product;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
 class ProductController extends Controller
 {
@@ -84,10 +85,11 @@ class ProductController extends Controller
             ->map(function ($product) {
                 $firstImage = $product->images->first();
                 
-                // Fix image path: replace 'public/' with 'storage/' for asset URL
-                $imagePath = null;
+                // Generate proper storage URL for images based on server structure
+                $imageUrl = null;
                 if ($firstImage) {
-                    $imagePath = str_replace('public/', 'storage/', $firstImage->path);
+                    // Server serves files from: storage/app/public/images/...
+                    $imageUrl = url('storage/app/' . $firstImage->path);
                 }
                 
                 return [
@@ -100,7 +102,7 @@ class ProductController extends Controller
                     'stock' => $product->stock,
                     'created_at' => $product->created_at->format('Y-m-d H:i:s'),
                     'updated_at' => $product->updated_at->format('Y-m-d H:i:s'),
-                    'image' => $imagePath ? asset($imagePath) : null,
+                    'image' => $imageUrl,
                     'image_count' => $product->images_count,
                 ];
             });

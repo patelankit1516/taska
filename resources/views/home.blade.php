@@ -112,8 +112,8 @@
         </p>
         
         <div class="buttons">
-            <a href="/test">🧪 Open Test Interface</a>
-            <a href="/products">📦 View Products</a>
+            <a href="{{ route('test') }}">🧪 Open Test Interface</a>
+            <a href="{{ route('products.index') }}">📦 View Products</a>
         </div>
         
         <div class="features">

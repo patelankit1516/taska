@@ -254,10 +254,10 @@
         
         <!-- Navigation Buttons -->
         <div class="nav-buttons">
-            <a href="/" class="nav-btn home">
+            <a href="{{ route('home') }}" class="nav-btn home">
                 🏠 Home
             </a>
-            <a href="/products" class="nav-btn">
+            <a href="{{ route('products.index') }}" class="nav-btn">
                 📦 View Products
             </a>
         </div>
@@ -269,25 +269,25 @@
             <div style="background: #f0f4f8; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
                 <strong>📥 Sample CSV Files for Testing:</strong>
                 <div style="margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;">
-                    <a href="/medium_products.csv" download style="display: inline-block; padding: 8px 16px; background: #4299e1; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'medium_products.csv') }}" style="display: inline-block; padding: 8px 16px; background: #4299e1; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 100
                     </a>
-                    <a href="/test_products_1000.csv" download style="display: inline-block; padding: 8px 16px; background: #48bb78; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'test_products_1000.csv') }}" style="display: inline-block; padding: 8px 16px; background: #48bb78; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 1K
                     </a>
-                    <a href="/test_products_2000.csv" download style="display: inline-block; padding: 8px 16px; background: #38a169; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'test_products_2000.csv') }}" style="display: inline-block; padding: 8px 16px; background: #38a169; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 2K
                     </a>
-                    <a href="/test_products_3000.csv" download style="display: inline-block; padding: 8px 16px; background: #2f855a; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'test_products_3000.csv') }}" style="display: inline-block; padding: 8px 16px; background: #2f855a; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 3K
                     </a>
-                    <a href="/test_products_4000.csv" download style="display: inline-block; padding: 8px 16px; background: #ed8936; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'test_products_4000.csv') }}" style="display: inline-block; padding: 8px 16px; background: #ed8936; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 4K
                     </a>
-                    <a href="/test_products_5000.csv" download style="display: inline-block; padding: 8px 16px; background: #dd6b20; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'test_products_5000.csv') }}" style="display: inline-block; padding: 8px 16px; background: #dd6b20; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 5K
                     </a>
-                    <a href="/large_products.csv" download style="display: inline-block; padding: 8px 16px; background: #e53e3e; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
+                    <a href="{{ route('sample.download', 'large_products.csv') }}" style="display: inline-block; padding: 8px 16px; background: #e53e3e; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600;">
                         📄 10K+
                     </a>
                 </div>
@@ -364,7 +364,14 @@
     </div>
 
     <script>
-        const API_BASE = '/api';
+        // API Routes
+        const API_ROUTES = {
+            productsImport: '{{ route('api.products.import') }}',
+            uploadsInitialize: '{{ route('api.uploads.initialize') }}',
+            uploadsChunk: '{{ url('api/uploads') }}', // Base URL for dynamic UUID
+            uploadsStatus: '{{ url('api/uploads') }}', // Base URL for dynamic UUID
+            productsAttachImage: '{{ url('api/products') }}' // Base URL for dynamic product ID
+        };
         
         function showResult(elementId, message, type) {
             const el = document.getElementById(elementId);
@@ -470,7 +477,7 @@
             showResult('importResult', 'Importing products... (this may take a few minutes)', 'info');
             
             try {
-                const response = await fetch(`${API_BASE}/products/import`, {
+                const response = await fetch(API_ROUTES.productsImport, {
                     method: 'POST',
                     body: formData
                 });
@@ -562,7 +569,7 @@
                 const checksum = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
                 
                 // Step 2: Initialize upload
-                const initResponse = await fetch(`${API_BASE}/uploads/initialize`, {
+                const initResponse = await fetch(API_ROUTES.uploadsInitialize, {
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
                     body: JSON.stringify({
@@ -604,7 +611,7 @@
                     });
                     
                     // Upload chunk
-                    const chunkResponse = await fetch(`${API_BASE}/uploads/${uploadUuid}/chunk`, {
+                    const chunkResponse = await fetch(`${API_ROUTES.uploadsChunk}/${uploadUuid}/chunk`, {
                         method: 'POST',
                         headers: {'Content-Type': 'application/json'},
                         body: JSON.stringify({
@@ -634,7 +641,7 @@
                 document.getElementById('uploadUuid').value = uploadUuid;
                 
                 // Show final status
-                const statusResponse = await fetch(`${API_BASE}/uploads/${uploadUuid}/status`);
+                const statusResponse = await fetch(`${API_ROUTES.uploadsStatus}/${uploadUuid}/status`);
                 const statusData = await statusResponse.json();
                 showApiResponse(statusData);
                 
@@ -658,7 +665,7 @@
             showResult('attachResult', 'Attaching image to product...', 'info');
             
             try {
-                const response = await fetch(`${API_BASE}/products/${productId}/attach-image`, {
+                const response = await fetch(`${API_ROUTES.productsAttachImage}/${productId}/attach-image`, {
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
                     body: JSON.stringify({

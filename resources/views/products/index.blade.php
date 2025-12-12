@@ -207,8 +207,8 @@
                 <div class="search-box">
                     <input type="text" id="searchBox" placeholder="🔍 Search products...">
                 </div>
-                <button class="btn btn-secondary" onclick="window.location.href='/test'">🧪 Test Import</button>
-                <button class="btn btn-secondary" onclick="window.location.href='/'">🏠 Home</button>
+                <button class="btn btn-secondary" onclick="window.location.href='{{ route('test') }}'">🧪 Test Import</button>
+                <button class="btn btn-secondary" onclick="window.location.href='{{ route('home') }}'">🏠 Home</button>
             </div>
             
             <div id="myGrid" class="ag-theme-alpine"></div>
@@ -401,7 +401,7 @@
                         console.log('Requesting rows from', params.startRow, 'to', params.endRow);
                         
                         try {
-                            const response = await fetch('/api/products', {
+                            const response = await fetch('{{ route('api.products.list') }}', {
                                 method: 'POST',
                                 headers: {
                                     'Content-Type': 'application/json',
@@ -484,7 +484,7 @@
                 }
                 
                 // First, get the total count of products
-                const countResponse = await fetch('/api/products', {
+                const countResponse = await fetch('{{ route('api.products.list') }}', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -520,7 +520,7 @@
                 }
                 
                 // Now fetch ALL products using the actual total count
-                const response = await fetch('/api/products', {
+                const response = await fetch('{{ route('api.products.list') }}', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
