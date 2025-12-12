@@ -26,6 +26,7 @@ Thumbs.db
 # Temporary and generated files
 *.md
 !README.md
+!APPROACH.md
 generate-*.php
 sample_products.csv
 start-server.sh
